@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+### Digital Sufism
 
-You can use the [editor on GitHub](https://github.com/zurstadt/digitalsufism/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page serves as a landing site for an ongoing academic project by [Jeremy Farrell] (https://emory.academia.edu/JeremyFarrell). Despite being the subject of well over a century of scholarly interest, the earliest periods of Sufi activity remain poorly understood. Indeed, so little light has been shed on this matter that the judgment of R.A. Nicholson in 1914 - "[The truth is that Sufism is a complex thing, and therefore no simple answer can be given to the question how it originated (...)]" (https://books.google.com/books?id=V7H_sQuCJsoC&printsec=frontcover&dq=r.a.+nicholson&hl=en&sa=X&ved=0ahUKEwj3rPfMvOjeAhVDPawKHZfiDDMQ6AEITjAH#v=onepage&q=complex&f=false ) remains virtually unchanged in the estimation of Christopher Melchert (2014): ["By a process not yet convincingly mapped in detail, there arose in the mid-ninth century a mystical trend, identified in Iraq with persons called Sufis."] (https://books.google.com/books?id=0Z2TBQAAQBAJ&printsec=frontcover&dq=cambridge+companion+to+sufism&hl=en&sa=X&ved=0ahUKEwi1gOiQvujeAhVM-qwKHXFRB5wQ6AEIKjAA#v=snippet&q=by%20a%20process%20not%20yet%20convincingly&f=false). The reasons for the lack of progress are many, but this website is designed so as to address three of the major impediments: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [Primary Sources] –  there exists a lack of knowledge about the earliest documents relating to Sufism, many of which have been published in the past quarter century.
+2. [Secondary Sources] – the significant bibliography of studies on early Sufism is difficult to comprehend; as a result, numerous academic traditions have been widely ignored in writing the history of early Sufism.
+3. [Methodological Approaches] – early studies based their claims on (mostly) small empirical datasets derived from relatively late sources (fifth-/eleventh century sources or after), the results of which scholars of literary bent have recently criticized.
 
-### Markdown
+This website offers resources in digital form to address these issues, and to promote a rigorous computational methodology that delivers on the empirical premises of earlier studies. Under [Primary Sources], you can find a list and links to literature produced by early Iraqi Sufis, their students, and contemporaries, much of which was unknown to previous scholarship. Under [Secondary Scholarship], you can find a list of studies on early Iraqi Sufis, with relevant links when this material is available online. Finally, on the [Blog], you can read about current and ongoing attempts to engage the arguments of [Secondary Scholarship] by applying computational methods to the data in the [Primary Sources]: primarily, and as a consequence of the relational nature of these data, this approach is informed by network analysis.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zurstadt/digitalsufism/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Eventually, as part of the [Future Directions] of this project, the goal is to publish a database of the material in the [Primary Sources] section. I am happy to receive correspondence for feedback, input, or updates to any of the data contained on this site; this can be directed to farrell dot jedw /at symbol/ gmail dot com.
