@@ -1,11 +1,8 @@
 Curriculum Vitae  
 =====
-Jeremy Farrell  
------
-Abu Dhabi, UAE  
+Jeremy Farrell | Abu Dhabi, UAE  
 -----
 farrell dot jedw /at/ gmail. dot com | jeremy dot farrell /at/ emory dot edu  
------
 
 Education  
 =====
