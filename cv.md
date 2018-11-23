@@ -16,15 +16,15 @@ Department of History | 2003-2007
 
 Academic Certificates  
 -----
-    * [Santa Fe Institute Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school)     (Santa Fe, NM) | Jun.-Jul. 2017
-    * [Holistic Approach to Manuscript Studies Course](http://web.philo.ulg.ac.be/islamo/portfolio-item/agenda/?date1=2015)  
-    Under the direction of Drs. Frederic Bauden and Elise Frannsen (Liège, Belgium) | Jun. 2015
-    * Full Year Fellow, _Center for Arabic Studies Abroad_ [(CASA)](https://casa.fas.harvard.edu/) (Cairo, Egypt) | 2011-2-12
+* [Santa Fe Institute Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school)     (Santa Fe, NM) | Jun.-Jul. 2017
+* [Holistic Approach to Manuscript Studies Course](http://web.philo.ulg.ac.be/islamo/portfolio-item/agenda/?date1=2015)  
+Under the direction of Drs. Frederic Bauden and Elise Frannsen (Liège, Belgium) | Jun. 2015
+* Full Year Fellow, _Center for Arabic Studies Abroad_ [(CASA)](https://casa.fas.harvard.edu/) (Cairo, Egypt) | 2011-2012
 
 Teaching & Educational Projects  
 =====
 * Instructor, _Arabic 101_, Emory University | Fall 2015  
-Instructor of record for introductory Arabic course (_Alif-Baa/al-Kitaab_ texts). Also developed parallel language engagement programming as part of the Emory University Arabic Table. Student evaluations 	available.
+Instructor of record for introductory Arabic course (_Alif-Baa/al-Kitaab_ texts). Also developed parallel language engagement programming as part of the Emory University Arabic Table. Student evaluations available.
 
 * Teaching Associate, _History of the Middle East_, Emory University | Fall 2014  
 Co-lecturing responsibilities for course covering historical method, source evaluation and themes in 	religious continuity from Babylonian period to Crusades. Led weekly lecture and presentation module incorporating media analysis of modern Middle Eastern topics.
@@ -34,9 +34,9 @@ Preparation of weekly hour-long sections with extensive use of Google Earth, tes
 
 Supplementary Pedagogical Training  
 -----
-    * Technology, Pedagogy, Curriculum + Research Program, [_Emory Center for Digital Scholarship_]       (http://digitalscholarship.emory.edu/partner/learn/tpcr.html) | Spring 2015
-    * Teaching Assistant Training and Teaching Opportunity (_TATTO_), Emory University | Fall 2014
-    * Office of Instructional Development Training Program, UCLA | Spring 2011
+* Technology, Pedagogy, Curriculum + Research Program, [_Emory Center for Digital Scholarship_]       (http://digitalscholarship.emory.edu/partner/learn/tpcr.html) | Spring 2015
+* Teaching Assistant Training and Teaching Opportunity (_TATTO_), Emory University | Fall 2014
+* Office of Instructional Development Training Program, UCLA | Spring 2011
 
 Publications, Translations, & Credits  
 =====
