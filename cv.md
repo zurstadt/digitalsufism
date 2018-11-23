@@ -18,7 +18,8 @@ BA (Honors), Department of History | 2003-2007
 Academic Certificates
 =====
 * [Santa Fe Institute Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school) (Santa Fe, NM) | Jun.-Jul. 2017
-* [Holistic Approach to Manuscript Studies Course](http://web.philo.ulg.ac.be/islamo/portfolio-item/agenda/?date1=2015),\under the direction of Drs. Frederic Bauden and Elise Frannsen (Liège, Belgium) | Jun. 2015
+* [Holistic Approach to Manuscript Studies Course](http://web.philo.ulg.ac.be/islamo/portfolio-item/agenda/?date1=2015)  
+Under the direction of Drs. Frederic Bauden and Elise Frannsen (Liège, Belgium) | Jun. 2015
 * Full Year Fellow, _Center for Arabic Studies Abroad_ [(CASA)](https://casa.fas.harvard.edu/) (Cairo, Egypt) | 2011-2-12
 
 Teaching & Educational Projects  
