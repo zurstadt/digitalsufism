@@ -1,7 +1,6 @@
 Curriculum Vitae  
 =====
 Jeremy Farrell | Abu Dhabi, UAE  
------
 farrell dot jedw /at/ gmail. dot com | jeremy dot farrell /at/ emory dot edu  
 
 Education  
@@ -15,8 +14,8 @@ Education
 * TULANE UNIVERSITY (New Orleans, LA) - BA (Honors)  
 Department of History | 2003-2007
 
-    Academic Certificates  
-    -----
+Academic Certificates  
+-----
     * [Santa Fe Institute Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school)     (Santa Fe, NM) | Jun.-Jul. 2017
     * [Holistic Approach to Manuscript Studies Course](http://web.philo.ulg.ac.be/islamo/portfolio-item/agenda/?date1=2015)  
     Under the direction of Drs. Frederic Bauden and Elise Frannsen (Liège, Belgium) | Jun. 2015
@@ -33,8 +32,8 @@ Co-lecturing responsibilities for course covering historical method, source eval
 * Teaching Assistant, _Introduction to Islam_, UCLA | Spring 2011  
 Preparation of weekly hour-long sections with extensive use of Google Earth, test writing and 	evaluation. Student references available. Undertaken concurrently with UCLA Office of Instructional Development Training Program.
 
-    Supplementary Pedagogical Training  
-    -----
+Supplementary Pedagogical Training  
+-----
     * Technology, Pedagogy, Curriculum + Research Program, [_Emory Center for Digital Scholarship_]       (http://digitalscholarship.emory.edu/partner/learn/tpcr.html) | Spring 2015
     * Teaching Assistant Training and Teaching Opportunity (_TATTO_), Emory University | Fall 2014
     * Office of Instructional Development Training Program, UCLA | Spring 2011
@@ -63,8 +62,8 @@ _In Preparation_
 _Credited Editorial/Research Assistance_
 -----
 * Copy-editor: _Journal of Muslim and Islamic Studies_, University of Indiana Press | 2017-2018
-* Research Assistant: Rkia L. Cornell, _Rabiʿa from Narrative to Myth: The Tropics of Identity of a Muslim Woman Saint_. Oxford: Oneworld Press (Forthcoming).
-* Research Assistant: Ibn al-Jawzī, _Virtues of the Imam Aḥmad ibn Ḥanbal/Manāqib al-imām Abū ʿAbd Allāh Aḥmad ibn Ḥanbal, ed. and trans. Michael Cooperson, 2 vols, Library of Arabic Literature. New York and Abu Dhabi: New York University Press, 2013-2015.
+* Research Assistant: Rkia L. Cornell, [_Rabiʿa from Narrative to Myth: The Tropics of Identity of a Muslim Woman Saint_](https://oneworld-publications.com/rabi-a-from-narrative-to-myth-hb.html). Oxford: Oneworld Press (2019).
+* Research Assistant: Ibn al-Jawzī, [_Virtues of the Imam Aḥmad ibn Ḥanbal_/_Manāqib al-imām Abū ʿAbd Allāh Aḥmad ibn Ḥanbal_](https://books.google.com/books/about/Virtues_of_the_Imam_Ahmad_Ibn_Hanbal.html?id=VAU4AgAAQBAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=true), ed. and trans. Michael Cooperson, 2 vols, Library of Arabic Literature. New York and Abu Dhabi: New York University Press, 2013-2015.
 
 Invited Conference Presentations  
 =====
