@@ -39,7 +39,7 @@ Supplementary Pedagogical Training
 * Office of Instructional Development Training Program, UCLA | Spring 2011
 
 Publications, Translations, & Credits  
-=====
+=====  
 _Refereed Book Chapters_
 -----
 * "Comic Authority: Sarcasm in Premodern Arabic Literature," in Stephen Alan Baragona and Elizabeth Louise Rambo, eds., _Words that Tear the Flesh: Essays on Sarcasm in Medieval and Early Modern Literature and Cultures_, Fundamentals of Medieval and Early Modern Culture Vol. 21, 85-117. Berlin, Walter de Gruyter, 2018.
