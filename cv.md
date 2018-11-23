@@ -6,14 +6,14 @@ farrell dot jedw /at/ gmail. dot com | jeremy dot farrell /at/ emory dot edu
 
 Education  
 =====
-* EMORY UNIVERSITY (Atlanta, GA)
-Doctoral Candidate, [Islamic Civilizations Studies](http://icivs.emory.edu/index.html) | 2013-
+* EMORY UNIVERSITY (Atlanta, GA) - Doctoral Candidate  
+[Islamic Civilizations Studies](http://icivs.emory.edu/index.html) | 2013-
 
-* UNIVERSITY OF CALIFORNIA LOS ANGELES (Los Angeles, CA)
-MA (Arabic), [Department of Near Eastern Languages and Cultures](https://nelc.ucla.edu/arabic/) | 2009-2012
+* UNIVERSITY OF CALIFORNIA LOS ANGELES (Los Angeles, CA) - MA (Arabic)  
+[Department of Near Eastern Languages and Cultures](https://nelc.ucla.edu/arabic/) | 2009-2012
 
-* TULANE UNIVERSITY (New Orleans, LA)
-BA (Honors), Department of History | 2003-2007
+* TULANE UNIVERSITY (New Orleans, LA) - BA (Honors)  
+Department of History | 2003-2007
 
 Academic Certificates
 =====
