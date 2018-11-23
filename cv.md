@@ -35,7 +35,7 @@ Preparation of weekly hour-long sections with extensive use of Google Earth, tes
 
 Supplementary Pedagogical Training  
 -----
-* _Technology, Pedagogy, Curriculum + Research Program, [_Emory Center for Digital Scholarship_](http://digitalscholarship.emory.edu/partner/learn/tpcr.html) | Spring 2015
+* Technology, Pedagogy, Curriculum + Research Program, [_Emory Center for Digital Scholarship_](http://digitalscholarship.emory.edu/partner/learn/tpcr.html) | Spring 2015
 * Teaching Assistant Training and Teaching Opportunity (_TATTO_), Emory University | Fall 2014
 * Office of Instructional Development Training Program, UCLA | Spring 2011
 
