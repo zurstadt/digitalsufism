@@ -24,13 +24,13 @@ Under the direction of Drs. Frederic Bauden and Elise Frannsen (Liège, Belgium)
 
 Teaching & Educational Projects  
 =====
-* Instructor, _Arabic 101_, Emory University | Fall 2015
+* Instructor, _Arabic 101_, Emory University | Fall 2015  
 Instructor of record for introductory Arabic course (_Alif-Baa/al-Kitaab_ texts). Also developed parallel language engagement programming as part of the Emory University Arabic Table. Student evaluations 	available.
 
-* Teaching Associate, _History of the Middle East_, Emory University | Fall 2014
+* Teaching Associate, _History of the Middle East_, Emory University | Fall 2014  
 Co-lecturing responsibilities for course covering historical method, source evaluation and themes in 	religious continuity from Babylonian period to Crusades. Led weekly lecture and presentation module incorporating media analysis of modern Middle Eastern topics.
 
-* Teaching Assistant, _Introduction to Islam_, UCLA | Spring 2011
+* Teaching Assistant, _Introduction to Islam_, UCLA | Spring 2011  
 Preparation of weekly hour-long sections with extensive use of Google Earth, test writing and 	evaluation. Student references available. Undertaken concurrently with UCLA Office of Instructional Development Training Program.
 
 Supplementary Pedagogical Training  
