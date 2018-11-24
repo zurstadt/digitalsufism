@@ -68,7 +68,7 @@ _Credited Editorial/Research Assistance_
 Invited Conference Presentations  
 =====
 * (with Uzay Cetin) “Measuring Leadership: A Network Analysis of Prominent Early Sufis (9th-10th cents. C.E.)," _MESA Annual Meeting_, San Antonio, TX | Nov. 2018
-* (with Uzay Ctin) “Networked Metrics of Leadership: An Analysis of Early Sufism (Iraq, 9th-10th c.s),” _XXXVIII Sunbelt Conference_, Utrecht, Netherlands | Jun. 2018
+* (with Uzay Cetin) “Networked Metrics of Leadership: An Analysis of Early Sufism (Iraq, 9th-10th c.s),” _XXXVIII Sunbelt Conference_, Utrecht, Netherlands | Jun. 2018
 * “The Emergence and Institutionalization of Sufi Prosopography: Reconstructing Jaʿfar al-Khuldī’s 	_'Ḥikāyāt al-mashāʾikh_'," _American Oriental Society Annual Meeting_, Pittsburgh, PA | Mar. 2018
 * “_Isnād_-based Analysis of the Emergence of Sufism: A Network Approach,” _MESA Annual Meeting_, Washington 	DC | Nov. 2017
 * “Sufism post-Weber: A New Typology of Asceticism and Mysticism,” _Borders and Margins: The Forty-Third Annual Sewanee Medieval Colloquium_, Sewanee, TN | Mar. 2017
