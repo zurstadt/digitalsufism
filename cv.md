@@ -81,3 +81,21 @@ Invited Conference Presentations
 * “Criticism of Hypocrisy: Contested Asceticism in Early Sufism,” _American Academy of Religion Annual Meeting_, San Diego, CA | Nov. 2014.
 * “‘Unprecedented Imbecilities’ or Hypocrisy? Modes of Ascetic Criticism in Medieval Nishapur,” _Southeastern Medieval Association_, Atlanta, GA | Oct. 2014.
 * “Judges, Ascetics and Early Aghlabid Civil Activism,” _UCSB Islamic Studies Conference_, Santa 	Barbara, CA | Apr. 2014
+
+_Invited Discussant_  
+-----
+* “Network Approaches to Analyzing Historical Religious Movements: The case of Early Sufism (9th-10th 	c. CE),” _New York University-Abu Dhabi Center for Digial Scholarship Workshop Series_ (Abu Dhabi, UAE) |	Nov. 2018
+* “New Possibilities in Longitudinal Network Analysis: Mining isnāds as evidence of community 	formation,” _NEH Digital Humanities in the 	Southeast Workshop_ (Atlanta, GA) | Oct. 2014
+
+Professional Affiliations  
+=====
+* American Academy of Religion | 2014–present
+* Middle East Studies Association | 2015–present
+* American Oriental Society | 2017-present
+
+Volunteer & Civic Activities
+=====
+* Reading Partners DC, Volunteer | 2017–2018
+* Special Olympics World Games, Volunteer | 2015, 2019
+* Trees Atlanta, Volunteer | 2013–16
+* Tulane University Ornithological Society, Co-President | 2005-2007
