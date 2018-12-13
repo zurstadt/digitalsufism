@@ -63,7 +63,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 </details>
 
-=============================================================
+-----------------------------------------------------------
 
 
 <details><summary>4th/10th-century authors</summary>
@@ -234,7 +234,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 </details>
 
-============================================================
+-----------------------------------------------------------
 
 
 <details><summary>5th/11th-century authors</summary> 
@@ -338,7 +338,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 </details>
 
-============================================================
+-----------------------------------------------------------
 
 
 ### Endnotes
