@@ -18,7 +18,8 @@ The presentation of this bibliography proceeds according to the author's date of
   
 -----
 
-###### Abū al-Shaykh Muḥammad b. al-Ḥusayn al-Burjulānī (d. Baghdad, 852-3)  
+<h6> Abū al-Shaykh Muḥammad b. al-Ḥusayn al-Burjulānī (d. Baghdad, 852-3)</h6>
+  
 <details>
   <summary>Edited Works</summary>
   
@@ -27,7 +28,8 @@ The presentation of this bibliography proceeds according to the author's date of
 
 -----
 
-###### Abū ʿAbd Allāh al-Ḥārith b. Asad al-Muḥāsibī (d. Baghdad, 243/857) (+)  
+<h6> Abū ʿAbd Allāh al-Ḥārith b. Asad al-Muḥāsibī (d. Baghdad, 243/857) (+)</h6>  
+  
 <details>
   <summary>Edited Works</summary>
   
@@ -35,7 +37,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 -----
 
-###### Abū Isḥāq Ibrāhīm b. ʿAbd Allāh Ibn al-Junayd al-Khuttalī (d. Baghdad, ca. 260-270/873-883) (+)  
+<h6> Abū Isḥāq Ibrāhīm b. ʿAbd Allāh Ibn al-Junayd al-Khuttalī (d. Baghdad, ca. 260-270/873-883) (+)</h6>  
 
 <details>
   <summary>Edited Works</summary>
@@ -47,7 +49,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 -----
 
-###### Abū Saʿīd Aḥmad b. ʿĪsā al-Kharrāz** (d. Egypt, ca. 286/897) (+)  
+<h6> Abū Saʿīd Aḥmad b. ʿĪsā al-Kharrāz** (d. Egypt, ca. 286/897) (+)</h6>  
 <details>
   <summary>Edited Works</summary>
 
@@ -70,7 +72,7 @@ The presentation of this bibliography proceeds according to the author's date of
 <details>
   <summary>4th/10th-century authors</summary>
   
-###### Abū al-Ḥusayn Muḥammad b. Aḥmad al-Baghawī al-Nūrī (d. Iraq?, ca. 295/907)
+<h6> Abū al-Ḥusayn Muḥammad b. Aḥmad al-Baghawī al-Nūrī (d. Iraq?, ca. 295/907)</h6>  
 
 <details>
   <summary>Edited Works</summary>
@@ -81,7 +83,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 -----
 
-###### Abū al-Qāsim al-Junayd b. Muḥammad al-Qawāwīrī (d. Baghdad, 298/910-11)
+<h6> Abū al-Qāsim al-Junayd b. Muḥammad al-Qawāwīrī (d. Baghdad, 298/910-11)</h6>  
 
 <details>
   <summary>Edited Works</summary>
@@ -102,7 +104,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 -----
 
-###### Abū Saʿīd Aḥmad b. Muḥammad b. Ziyād Ibn al-Aʿrābī (d. Mecca, 340/951)  (+)  
+<h6> Abū Saʿīd Aḥmad b. Muḥammad b. Ziyād Ibn al-Aʿrābī (d. Mecca, 340/951)  (+)</h6>  
 
 <details>
   <summary>Edited Works</summary>
@@ -122,7 +124,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 ----- 
  
-###### Abū Muḥammad Jaʿfar b. Muḥammad b. Nuṣayr al-Khuldī (d. Baghdad, 348/959)  (+)  
+<h6> Abū Muḥammad Jaʿfar b. Muḥammad b. Nuṣayr al-Khuldī (d. Baghdad, 348/959) (+)</h6>  
 
 <details>
   <summary>Edited Works</summary>
@@ -143,7 +145,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 ----- 
 
-###### Abū Naṣr ʿAbd Allāh b. ʿAlī al-Sarrāj al-Ṭūsī (d. Ṭūs, 370/980)  
+<h6> Abū Naṣr ʿAbd Allāh b. ʿAlī al-Sarrāj al-Ṭūsī (d. Ṭūs, 370/980)</h6>  
 
 <details>
   <summary>Edited Works</summary> 
@@ -162,7 +164,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 -----
 
-###### Abū ʿAbd Allāh Muḥammad Ibn Khafīf (b. Ifsākshādh / Isfākshādh) al-Shīrāzī (d. 372/982) (+)
+<h6> Abū ʿAbd Allāh Muḥammad Ibn Khafīf (b. Ifsākshādh / Isfākshādh) al-Shīrāzī (d. 372/982) (+)</h6>  
 
 <details>
   <summary>Edited Works</summary>
@@ -191,7 +193,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 -----
 
-###### Abū Bakr Muḥammad b. Isḥāq al-Kalābādhī (d. 380/990) (+)  
+<h6> Abū Bakr Muḥammad b. Isḥāq al-Kalābādhī (d. 380/990) (+)</h6>    
 
 <details>
   <summary>Edited Works</summary>
@@ -215,7 +217,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 -----
 
-###### Abū Jaʿfar Muḥammad b. al-Ḥusayn b. Aḥmad b. Yazdānyār (d. late 4th/10th c.?)    
+<h6> Abū Jaʿfar Muḥammad b. al-Ḥusayn b. Aḥmad b. Yazdānyār (d. late 4th/10th c.?)</h6>  
 
 <details>
   <summary>Edited Works</summary>  
@@ -226,7 +228,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 -----
 
-###### _Kitāb Ādāb al-Mulūk_ (Anonymous)<sup id="note8">[8](#f8)</sup>
+<h6> _Kitāb Ādāb al-Mulūk_ (Anonymous)</h6?<sup id="note8">[8](#f8)</sup>
 
 <details>
   <summary>Edited Works</summary>
@@ -249,7 +251,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 <details>
   <summary>5th/11th-century authors</summary> 
 
-###### Abū ʿAlī al-Ḥasan b. al-Ḥusayn, Ibn Ḥamakān al-Shāfiʿī (d. Baghdad, 405/1014-15)
+<h6> Abū ʿAlī al-Ḥasan b. al-Ḥusayn, Ibn Ḥamakān al-Shāfiʿī (d. Baghdad, 405/1014-15)</h6>  
 
 <details>
   <summary>Edited Works</summary>  
@@ -260,7 +262,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 -----
 
-###### Abū Saʿd ʿAbd al-Mālik b. Muḥammad b. Ibrāhīm al-Khar(k/g)ūshī (d. Nishapur, 406/1015-16) (+)  
+<h6> Abū Saʿd ʿAbd al-Mālik b. Muḥammad b. Ibrāhīm al-Khar(k/g)ūshī (d. Nishapur, 406/1015-16) (+)</h6>  
 
 <details>
   <summary>Edited Works</summary>
@@ -279,7 +281,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 -----
 
-###### Abū ʿAbd al-Raḥmān al-Sulamī (d. Nishapur, 412/1021)  (+)  
+<h6> Abū ʿAbd al-Raḥmān al-Sulamī (d. Nishapur, 412/1021)  (+)</h6>  
 
 <details>
   <summary>Edited Works</summary>
@@ -300,7 +302,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 -----
 
-###### Abū Saʿd Aḥmad b. Muḥammad b. Aḥmad al-Mālīnī (d. Miṣr, 412/1021-22)  
+<h6> Abū Saʿd Aḥmad b. Muḥammad b. Aḥmad al-Mālīnī (d. Miṣr, 412/1021-22)</h6>  
 
 <details>
   <summary>Edited Works</summary>
@@ -311,7 +313,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 -----
 
-###### Abū Saʿīd Muḥammad b. ʿAlī b. ʿAmr an-Naqqāsh al-Ḥanbalī (d. Isfahan, 414/1023)  (+)
+<h6> Abū Saʿīd Muḥammad b. ʿAlī b. ʿAmr an-Naqqāsh al-Ḥanbalī (d. Isfahan, 414/1023)  (+)</h6>  
 
 <details>
   <summary>Edited Works</summary>
@@ -329,7 +331,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 -----
 
-###### Abū Nuʿaym Aḥmad b. ʿAbd Allāh al-Iṣfahānī (d. Isfahan, 430/1038)  (+)<sup id="note10">[10](#f10)</sup>  
+<h6> Abū Nuʿaym Aḥmad b. ʿAbd Allāh al-Iṣfahānī (d. Isfahan, 430/1038)  (+)</h6><sup id="note10">[10](#f10)</sup>  
 
 <details>
   <summary>Edited Works</summary>
@@ -342,7 +344,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 -----
 
-###### Abū al-Ḥasan ʿAlī b. al-Ḥasan al-Sīr(j/k/g)ānī (d. ca. 470/1077)  
+<h6> Abū al-Ḥasan ʿAlī b. al-Ḥasan al-Sīr(j/k/g)ānī (d. ca. 470/1077)</h6>  
 
 <details>
   <summary>Edited Works</summary>
