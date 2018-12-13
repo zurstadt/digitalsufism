@@ -18,7 +18,7 @@ The presentation of this bibliography proceeds according to the author's date of
   
 ---  
 
-###### **Abū al-Shaykh Muḥammad b. al-Ḥusayn al-Burjulānī** (d. Baghdad, 852-3)  
+###### Abū al-Shaykh Muḥammad b. al-Ḥusayn al-Burjulānī (d. Baghdad, 852-3)  
 <details>
   <summary>Edited Works</summary>
 -- ʿĀmir Ḥasan Ṣabrī (ed.). <span style="background-color: #FFFF00">_Kitāb al-Karam wa-l-jūd wa-sakhāʾ al-nufūs_</span>. Beirut: Dār Ibn Ḥazm, 1412/1991. [(link)](https://drive.google.com/open?id=1I5ZkBit4dDwfASXCTJtJUHbCCG1dKgH- "Download") = pp. 3-43 (Part A), in Bernd Radtke (ed.). _Materialen zur alten islamische Frömigkeit_, Basic Texts in Islamic Mysticism Vol. 2. Leiden: Brill, 2008. 
@@ -26,7 +26,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 ---  
 
-###### **Abū ʿAbd Allāh al-Ḥārith b. Asad al-Muḥāsibī** (d. Baghdad, 243/857) **(+)**  
+###### Abū ʿAbd Allāh al-Ḥārith b. Asad al-Muḥāsibī (d. Baghdad, 243/857) (+)  
 <details>
   <summary>Edited Works</summary>
   
@@ -34,7 +34,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 ---  
 
-###### **Abū Isḥāq Ibrāhīm b. ʿAbd Allāh Ibn al-Junayd al-Khuttalī** (d. Baghdad, ca. 260-270/873-883) **(+)**  
+###### Abū Isḥāq Ibrāhīm b. ʿAbd Allāh Ibn al-Junayd al-Khuttalī (d. Baghdad, ca. 260-270/873-883) (+)  
 
 <details>
   <summary>Edited Works</summary>
@@ -46,7 +46,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 ---  
 
-###### **Abū Saʿīd Aḥmad b. ʿĪsā al-Kharrāz** (d. Egypt, ca. 286/897) **(+)**  
+###### Abū Saʿīd Aḥmad b. ʿĪsā al-Kharrāz** (d. Egypt, ca. 286/897) (+)  
 <details>
   <summary>Edited Works</summary>
 
@@ -67,7 +67,7 @@ The presentation of this bibliography proceeds according to the author's date of
 <details>
   <summary>4th/10th-century authors</summary>
   
-###### **Abū al-Ḥusayn Muḥammad b. Aḥmad al-Baghawī al-Nūrī** (d. Iraq?, ca. 295/907)
+###### Abū al-Ḥusayn Muḥammad b. Aḥmad al-Baghawī al-Nūrī (d. Iraq?, ca. 295/907)
 
 <details>
   <summary>Edited Works</summary>
@@ -78,7 +78,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 ---  
 
-###### **Abū al-Qāsim al-Junayd b. Muḥammad al-Qawāwīrī** (d. Baghdad, 298/910-11)
+###### Abū al-Qāsim al-Junayd b. Muḥammad al-Qawāwīrī (d. Baghdad, 298/910-11)
 
 <details>
   <summary>Edited Works</summary>
@@ -98,7 +98,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 ---  
 
-###### **Abū Saʿīd Aḥmad b. Muḥammad b. Ziyād Ibn al-Aʿrābī** (d. Mecca, 340/951)  **(+)**  
+###### Abū Saʿīd Aḥmad b. Muḥammad b. Ziyād Ibn al-Aʿrābī (d. Mecca, 340/951)  (+)  
 
 <details>
   <summary>Edited Works</summary>
@@ -118,7 +118,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 ---  
  
-###### **Abū Muḥammad Jaʿfar b. Muḥammad b. Nuṣayr al-Khuldī** (d. Baghdad, 348/959)  **(+)**  
+###### Abū Muḥammad Jaʿfar b. Muḥammad b. Nuṣayr al-Khuldī (d. Baghdad, 348/959)  (+)  
 
 <details>
   <summary>Edited Works</summary>
@@ -139,7 +139,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 ---  
  
-###### **Abū Naṣr ʿAbd Allāh b. ʿAlī al-Sarrāj al-Ṭūsī** (d. Ṭūs, 370/980)  
+###### Abū Naṣr ʿAbd Allāh b. ʿAlī al-Sarrāj al-Ṭūsī (d. Ṭūs, 370/980)  
 
 <details>
   <summary>Edited Works</summary> 
@@ -158,7 +158,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 ---  
 
-###### **Abū ʿAbd Allāh Muḥammad Ibn Khafīf (b. Ifsākshādh / Isfākshādh) al-Shīrāzī** (d. 372/982) **(+)**
+###### Abū ʿAbd Allāh Muḥammad Ibn Khafīf (b. Ifsākshādh / Isfākshādh) al-Shīrāzī (d. 372/982) (+)
 
 <details>
   <summary>Edited Works</summary>
@@ -187,7 +187,7 @@ The presentation of this bibliography proceeds according to the author's date of
 
 ---  
 
-###### **Abū Bakr Muḥammad b. Isḥāq al-Kalābādhī** (d. 380/990) **(+)**  
+###### Abū Bakr Muḥammad b. Isḥāq al-Kalābādhī (d. 380/990) (+)  
 
 <details>
   <summary>Edited Works</summary>
@@ -211,7 +211,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 ---  
 
-###### **Abū Jaʿfar Muḥammad b. al-Ḥusayn b. Aḥmad b. Yazdānyār** (d. late 4th/10th c.?)    
+###### Abū Jaʿfar Muḥammad b. al-Ḥusayn b. Aḥmad b. Yazdānyār (d. late 4th/10th c.?)    
 
 <details>
   <summary>Edited Works</summary>  
@@ -245,7 +245,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 <details>
   <summary>5th/11th-century authors</summary> 
 
-###### **Abū ʿAlī al-Ḥasan b. al-Ḥusayn, Ibn Ḥamakān al-Shāfiʿī** (d. Baghdad, 405/1014-15)
+###### Abū ʿAlī al-Ḥasan b. al-Ḥusayn, Ibn Ḥamakān al-Shāfiʿī (d. Baghdad, 405/1014-15)
 
 <details>
   <summary>Edited Works</summary>  
@@ -256,7 +256,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 ---  
 
-###### **Abū Saʿd ʿAbd al-Mālik b. Muḥammad b. Ibrāhīm al-Khar(k/g)ūshī** (d. Nishapur, 406/1015-16) **(+)**  
+###### Abū Saʿd ʿAbd al-Mālik b. Muḥammad b. Ibrāhīm al-Khar(k/g)ūshī (d. Nishapur, 406/1015-16) (+)  
 
 <details>
   <summary>Edited Works</summary>
@@ -275,7 +275,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 ---  
 
-###### **Abū ʿAbd al-Raḥmān al-Sulamī** (d. Nishapur, 412/1021)  **(+)**  
+###### Abū ʿAbd al-Raḥmān al-Sulamī (d. Nishapur, 412/1021)  (+)  
 
 <details>
   <summary>Edited Works</summary>
@@ -291,7 +291,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 ---  
 
-###### **Abū Saʿd Aḥmad b. Muḥammad b. Aḥmad al-Mālīnī** (d. Miṣr, 412/1021-22)  
+###### Abū Saʿd Aḥmad b. Muḥammad b. Aḥmad al-Mālīnī (d. Miṣr, 412/1021-22)  
 
 <details>
   <summary>Edited Works</summary>
@@ -302,7 +302,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 ---  
 
-###### **Abū Saʿīd Muḥammad b. ʿAlī b. ʿAmr an-Naqqāsh al-Ḥanbalī** (d. Isfahan, 414/1023)  **(+)**
+###### Abū Saʿīd Muḥammad b. ʿAlī b. ʿAmr an-Naqqāsh al-Ḥanbalī (d. Isfahan, 414/1023)  (+)
 
 <details>
   <summary>Edited Works</summary>
@@ -320,7 +320,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 ---  
 
-###### **Abū Nuʿaym Aḥmad b. ʿAbd Allāh al-Iṣfahānī** (d. Isfahan, 430/1038)  **(+)**<sup id="note10">[10](#f10)</sup>  
+###### Abū Nuʿaym Aḥmad b. ʿAbd Allāh al-Iṣfahānī (d. Isfahan, 430/1038)  (+)<sup id="note10">[10](#f10)</sup>  
 
 <details>
   <summary>Edited Works</summary>
@@ -333,7 +333,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 
 ---  
 
-###### **Abū al-Ḥasan ʿAlī b. al-Ḥasan al-Sīr(j/k/g)ānī** (d. ca. 470/1077)  
+###### Abū al-Ḥasan ʿAlī b. al-Ḥasan al-Sīr(j/k/g)ānī (d. ca. 470/1077)  
 
 <details>
   <summary>Edited Works</summary>
@@ -354,7 +354,7 @@ Paolo Urizzi and Denis Grill (trans.). Il Sufismo: _Nelle parole degli antichi_ 
 <a id="f5">5</a>: The locution "neo-skeptic" was coined by Herbert Berg, "Competing paradigms in the study of Islamic origins: Qurʾān 15:89-91 and the value of _isnād_s," in Herbert Berg (ed). _Method and Theory in the Study of Islamic Origins_, Islamic History and Civilization Studies and Texts Vol. 49 (Leiden: Brill, 2003), 259-90, here 285. For the specific comments about Sufi historiography, see: Jawid Mojaddedi, _The Biographical Tradition in Sufism: The_ ṭabaqāt _genre from al-Sulamī to Jāmī_ (Richmond, Surrey: RoutledgeCurzon, 2001), 2, 171f;
 Kenneth Avery, _Shiblī: His Life and Thought in the Sufi Tradition_ (Albany, NY: SUNY Press, 2014), 2. [↩](#note5 "Return to text")   
 <a id="f6">6</a>:  _raqm al-ḥifẓ_ 1/346; cf. _Khizānat al-Turāth: Fihrist Makhṭūṭāt_ (Cairo: Markaz al-Malik Fayṣal, N.D.), LXIII, 77 no. 63403 – [(link)](http://shamela.ws/browse.php/book-5678/page-42121#page-62077) [↩](#note6 "Return to text")  
-<a id="f7">7</a>: Sezgin (_GAS_ I, 661 no. 30(+)) following the Catalogue of the BNRM, incorrectly gives the title as "_Risāla fī t-taṣawwuf_'.[↩](#note7 "Return to text")  
+<a id="f7">7</a>: Sezgin (_GAS_ I, 661 no. 30(+)) following the Catalogue of the BNRM, incorrectly gives the title as "_Risāla fī t-taṣawwuf_').[↩](#note7 "Return to text")  
 <a id="f8">8</a>: The attribution has never been satisfactorily established. See the discussion in Radtke (ed.), _Adab al-Mulūk_, pp. 3-21. [↩](#note8 "Return to text")  
 <a id="f9">9</a>: An edition has been promised in Hassan Ansari and Sabine Schmidtke, "Abū Saʿd al-Ḫargūshī and his _Kitāb al-Lawāmiʿ_: A Ṣūfī guidebook for preachers in 4<sup>th</sup>/10<sup>th</sup> century Nīšāpūr," _Arabica_ 58 (2011): 503-518.[↩](#note9 "Return to text")  
 <a id="f10">10</a>: Abū Nuʿaym's scholarly interests extended well beyond the bounds of Sufism, as detailed in the bibliography of ʿAlīriḍā Dhakāwatī Qarāguzlū (Alireza Zakavati Gharagzlou), "Abū Nuʿaym al-Iṣfahānī: Published Works; Manuscripts," trans. Hassan Ansari and Farzin Negahban. In Wilferd Madelung and Farhad Daftary (eds.). _Encyclopædia Islamica_. Brill Online. Only those works with a discernible relation to Sufism are given here. [↩](#note10 "Return to text")  
