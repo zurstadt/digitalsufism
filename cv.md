@@ -3,20 +3,16 @@ Curriculum Vitae
 Jeremy Farrell | Abu Dhabi, UAE  
 farrell dot jedw /at/ gmail. dot com | jeremy dot farrell /at/ emory dot edu  
 
+Education  
 =====
-
-Education
-
 |Institution    |Degree|Date| 
 |---------------|------|----|
 |**EMORY UNIVERSITY** (Atlanta, GA)|Doctoral Candidate, [Islamic Civilizations Studies](http://icivs.emory.edu/index.html)| 2013-|
 |**UCLA** (Los Angeles, CA)| MA (Arabic), [NELC Department](https://nelc.ucla.edu/arabic/)|2009-2012|
 |**TULANE UNIVERSITY** (New Orleans, LA)|BA (Honors), Department of History|2003-2007|
 
-=====
-
 Academic Certificates  
-
+=====
 |Institution|Certification|Date|  
 |-----------|-------------|----|
 * [Santa Fe Institute Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school)     (Santa Fe, NM) | Jun.-Jul. 2017
