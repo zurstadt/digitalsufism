@@ -9,9 +9,9 @@ Education
 
 |Institution|Degree|Date| 
 |-----------|------|----|
-|**EMORY UNIVERSITY** (Atlanta, GA) Doctoral Candidate [Islamic Civilizations Studies](http://icivs.emory.edu/index.html)| 2013-|
-|**UCLA** (Los Angeles, CA) - MA (Arabic), [Department of Near Eastern Languages and Cultures](https://nelc.ucla.edu/arabic/)|2009-2012|
-|**TULANE UNIVERSITY (New Orleans, LA)** BA (Honors), Department of History | 2003-2007|
+|**EMORY UNIVERSITY** (Atlanta, GA)|Doctoral Candidate [Islamic Civilizations Studies](http://icivs.emory.edu/index.html)| 2013-|
+|**UCLA** (Los Angeles, CA)| MA (Arabic), [Department of Near Eastern Languages and Cultures](https://nelc.ucla.edu/arabic/)|2009-2012|
+|**TULANE UNIVERSITY** (New Orleans, LA)|BA (Honors), Department of History|2003-2007|
 
 =====
 
