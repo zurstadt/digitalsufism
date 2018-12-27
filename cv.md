@@ -5,6 +5,7 @@ farrell dot jedw /at/ gmail. dot com | jeremy dot farrell /at/ emory dot edu
 
 Education  
 =====
+
 |Institution    |Degree|Date| 
 |---------------|------|----|
 |**EMORY UNIVERSITY** (Atlanta, GA)|Doctoral Candidate, [Islamic Civilizations Studies](http://icivs.emory.edu/index.html)| 2013-|
@@ -13,6 +14,7 @@ Education
 
 Academic Certificates  
 =====
+
 |Institution|Certification|Date|  
 |-----------|-------------|----|
 |Santa Fe Institute (Santa Fe, NM)|[Santa Fe Institute Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school)|Jun.-Jul. 2017|
@@ -21,6 +23,7 @@ Academic Certificates
 
 Teaching & Educational Projects
 =====
+
 |Position/Project    |Date|
 |--------------------|----|
 |**Instructor, _Arabic 101_, Emory University** Instructor of record for introductory Arabic course (_Alif-Baa/al-Kitaab_ texts). Also developed parallel language engagement programming as part of the Emory University Arabic Table. Student evaluations available.|Fall 2015| 
@@ -29,6 +32,7 @@ Teaching & Educational Projects
 
 Supplementary Pedagogical Training  
 -----
+
 |Position/Project    |Date|
 |--------------------|----|
 |Technology, Pedagogy, Curriculum + Research Program, [_Emory Center for Digital Scholarship_](http://digitalscholarship.emory.edu/partner/learn/tpcr.html)|Spring 2015|
@@ -39,6 +43,7 @@ Publications, Translations, & Credits  | Date
 =====  
 _Refereed Book Chapters_
 -----
+
 |Title    |Date|
 |---------|----|  
 |"Comic Authority: Sarcasm in Premodern Arabic Literature," pp. 85-117. In Stephen Alan Baragona and Elizabeth Louise Rambo, eds., _Words that Tear the Flesh: Essays on Sarcasm in Medieval and Early Modern Literature and Cultures_, Fundamentals of Medieval and Early Modern Culture Vol. 21. Berlin, Walter de Gruyter, 2018.| 2018|
@@ -66,6 +71,7 @@ _Credited Editorial/Research Assistance_
 
 Invited Conference Presentations  | Date  
 =====
+
 |Presentation Title    |Date|
 |----------------------|----|
 |(with Uzay Cetin) “Measuring Leadership: A Network Analysis of Prominent Early Sufis (9th-10th cents. C.E.)," _MESA Annual Meeting_, San Antonio, TX|Nov. 2018|
@@ -85,6 +91,7 @@ Invited Conference Presentations  | Date
 
 _Invited Discussant_
 -----
+
 |Presentation Title   |Date|
 |---------------------|----|
 |“Network Approaches to Analyzing Historical Religious Movements: The case of Early Sufism (9th-10th 	c. CE),” _New York University-Abu Dhabi Center for Digial Scholarship Workshop Series_ (Abu Dhabi, UAE)|Nov. 2018|
@@ -92,6 +99,7 @@ _Invited Discussant_
 
 Professional Affiliations
 =====
+
 |Organization    |Date|
 |----------------|----|
 |American Academy of Religion | 2014–present|
@@ -100,6 +108,7 @@ Professional Affiliations
 
 Volunteer & Civic Activities  
 =====
+
 |Organization (Position)    |Date|
 |---------------------------|----|
 |Reading Partners DC, Volunteer|2017–2018|
