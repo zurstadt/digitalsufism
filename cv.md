@@ -46,8 +46,6 @@ _Refereed Book Chapters_
 
 _In Press_
 -----
-|Title    |Date|
-|---------|----|
 * “Early ‘Traditionist Sufis’: A Network Analysis.” In Belal Abu-Alabbas, Michael Mann, and Christopher Melchert, eds., _Modern Hadith Studies: Continued Debates and New Approaches_. Edinburgh: Edinburgh University Press: 2019. [(link)](https://www.amazon.co.uk/Modern-Hadith-Studies-Continued-Approaches/dp/1474441793 "Pre-order on Amazon")| 2019
 
 * "An Integral Abū Nuwās: The Articulation of Transgressive Religiosity in his _zuhdiyyāt_ and _khamriyyāt_." In Kyrill Dmitriev and Vhristine van Ruymbeke, eds., _Wine Poetry as a World Genre_, Leiden: E.J. Brill, 2019. | 2019
@@ -63,8 +61,6 @@ _In Preparation_
 
 _Credited Editorial/Research Assistance_
 -----
-|Project    |Date|
-|-----------|----|
 * Research Assistant: Rkia L. Cornell, [_Rabiʿa from Narrative to Myth: The Many Faces of Islam's Most Famous Woman Saint, Rabiʿa al-ʿAdawiyya](https://oneworld-publications.com/rabi-a-from-narrative-to-myth-hb.html). Oxford: Oneworld Press (2019). | 2019
 * Copy-editor: _Journal of Muslim and Islamic Studies_, University of Indiana Press | 2017-2018  | 2018
 * Research Assistant: Ibn al-Jawzī, [_Virtues of the Imam Aḥmad ibn Ḥanbal_/_Manāqib al-imām Abū ʿAbd Allāh Aḥmad ibn Ḥanbal_](https://books.google.com/books/about/Virtues_of_the_Imam_Ahmad_Ibn_Hanbal.html?id=VAU4AgAAQBAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=true), ed. and trans. Michael Cooperson, 2 vols, Library of Arabic Literature. New York and Abu Dhabi: New York University Press, 2013-2015. | 2013
