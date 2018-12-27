@@ -50,7 +50,7 @@ _Refereed Book Chapters_
 
 _In Press_
 -----
-* “Early ‘Traditionist Sufis’: A Network Analysis.” In Belal Abu-Alabbas, Michael Mann, and Christopher Melchert, eds., _Modern Hadith Studies: Continued Debates and New Approaches_. Edinburgh: Edinburgh University Press: 2019. [(link)](https://www.amazon.co.uk/Modern-Hadith-Studies-Continued-Approaches/dp/1474441793 "Pre-order on Amazon")
+* “Early ‘Traditionist Sufis’: A Network Analysis.” In Belal Abu-Alabbas, Michael Mann, and Christopher Melchert, eds., [_Modern Hadith Studies: Continued Debates and New Approaches_](https://www.amazon.co.uk/Modern-Hadith-Studies-Continued-Approaches/dp/1474441793 "Pre-order on Amazon"). Edinburgh: Edinburgh University Press: 2019. 
 
 * "An Integral Abū Nuwās: The Articulation of Transgressive Religiosity in his _zuhdiyyāt_ and _khamriyyāt_." In Kyrill Dmitriev and Christine van Ruymbeke, eds., _Wine Poetry as a World Genre_, Leiden: E.J. Brill, 2019.
 
