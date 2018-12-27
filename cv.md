@@ -39,7 +39,7 @@ Supplementary Pedagogical Training
 |Teaching Assistant Training and Teaching Opportunity (_TATTO_), Emory University|Fall 2014|
 |Office of Instructional Development Training Program, UCLA|Spring 2011|
 
-Publications, Translations, & Credits  | Date  
+Publications, Translations, Credits
 =====  
 _Refereed Book Chapters_
 -----
@@ -65,9 +65,9 @@ _In Preparation_
 
 _Credited Editorial/Research Assistance_
 -----
-* Research Assistant: Rkia L. Cornell, [_Rabiʿa from Narrative to Myth: The Many Faces of Islam's Most Famous Woman Saint, Rabiʿa al-ʿAdawiyya_](https://oneworld-publications.com/rabi-a-from-narrative-to-myth-hb.html). Oxford: Oneworld Press (2019).
-* Copy-editor (2017-2018) _Journal of Muslim and Islamic Studies_, University of Indiana Press.
-* Research Assistant: Ibn al-Jawzī, [_Virtues of the Imam Aḥmad ibn Ḥanbal_/_Manāqib al-imām Abū ʿAbd Allāh Aḥmad ibn Ḥanbal_](https://books.google.com/books/about/Virtues_of_the_Imam_Ahmad_Ibn_Hanbal.html?id=VAU4AgAAQBAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=true), ed. and trans. Michael Cooperson, 2 vols, Library of Arabic Literature. New York and Abu Dhabi: New York University Press, 2013-2015.
+* **Research Assistant**: Rkia L. Cornell, [_Rabiʿa from Narrative to Myth: The Many Faces of Islam's Most Famous Woman Saint, Rabiʿa al-ʿAdawiyya_](https://oneworld-publications.com/rabi-a-from-narrative-to-myth-hb.html). Oxford: Oneworld Press, 2019.
+* **Copy-editor**: _Journal of Muslim and Islamic Studies_, University of Indiana Press, 2017-2018.
+* **Research Assistant**: Ibn al-Jawzī, [_Virtues of the Imam Aḥmad ibn Ḥanbal_/_Manāqib al-imām Abū ʿAbd Allāh Aḥmad ibn Ḥanbal_](https://books.google.com/books/about/Virtues_of_the_Imam_Ahmad_Ibn_Hanbal.html?id=VAU4AgAAQBAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=true), ed. and trans. Michael Cooperson, 2 vols, Library of Arabic Literature. New York and Abu Dhabi: New York University Press, 2013-2015.
 
 Invited Conference Presentations  | Date  
 =====
