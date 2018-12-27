@@ -3,21 +3,22 @@ Curriculum Vitae
 Jeremy Farrell | Abu Dhabi, UAE  
 farrell dot jedw /at/ gmail. dot com | jeremy dot farrell /at/ emory dot edu  
 
+=====
 
-#Education  
+Education
 
-|Institution | Date | 
-|----------|------|
-|**EMORY UNIVERSITY (Atlanta, GA)** Doctoral Candidate [Islamic Civilizations Studies](http://icivs.emory.edu/index.html)| 2013-|
-|**UNIVERSITY OF CALIFORNIA LOS ANGELES (Los Angeles, CA)** - MA (Arabic), [Department of Near Eastern Languages and Cultures](https://nelc.ucla.edu/arabic/)|2009-2012|
+|Institution|Degree|Date| 
+|-----------|------|----|
+|**EMORY UNIVERSITY** (Atlanta, GA) Doctoral Candidate [Islamic Civilizations Studies](http://icivs.emory.edu/index.html)| 2013-|
+|**UCLA** (Los Angeles, CA) - MA (Arabic), [Department of Near Eastern Languages and Cultures](https://nelc.ucla.edu/arabic/)|2009-2012|
 |**TULANE UNIVERSITY (New Orleans, LA)** BA (Honors), Department of History | 2003-2007|
 
 =====
 
-#Academic Certificates  
+Academic Certificates  
 
-|Institution|Date|  
-|-----------|Date|
+|Institution|Certification|Date|  
+|-----------|-------------|----|
 * [Santa Fe Institute Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school)     (Santa Fe, NM) | Jun.-Jul. 2017
 * [Holistic Approach to Manuscript Studies Course](http://web.philo.ulg.ac.be/islamo/portfolio-item/agenda/?date1=2015)  
 Under the direction of Drs. Frederic Bauden and Elise Frannsen (Liège, Belgium) | Jun. 2015
