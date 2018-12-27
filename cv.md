@@ -113,5 +113,5 @@ Volunteer & Civic Activities
 |---------------------------|----|
 |Reading Partners DC, Volunteer|2017–2018|
 |Special Olympics World Games, Volunteer| 2015, 2019|
-|Trees Atlanta, Volunteer | 2013–16|
+|Trees Atlanta, Volunteer | 2013–2016|
 |Tulane University Ornithological Society, Co-President | 2005-2007|
