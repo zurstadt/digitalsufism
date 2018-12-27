@@ -4,7 +4,8 @@ Jeremy Farrell | Abu Dhabi, UAE
 farrell dot jedw /at/ gmail. dot com | jeremy dot farrell /at/ emory dot edu  
 
 
-#Education
+#Education  
+
 |Institution | Date | 
 |----------|------|
 |**EMORY UNIVERSITY (Atlanta, GA)** Doctoral Candidate [Islamic Civilizations Studies](http://icivs.emory.edu/index.html)| 2013-|
@@ -13,7 +14,8 @@ farrell dot jedw /at/ gmail. dot com | jeremy dot farrell /at/ emory dot edu
 
 =====
 
-#Academic Certificates
+#Academic Certificates  
+
 |Institution|Date|  
 |-----------|Date|
 * [Santa Fe Institute Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school)     (Santa Fe, NM) | Jun.-Jul. 2017
