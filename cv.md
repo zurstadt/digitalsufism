@@ -41,14 +41,14 @@ Supplementary Pedagogical Training
 
 Publications, Translations, Credits
 =====  
-_Refereed Book Chapters_
+_Refereed Book Chapters_  
 -----
 
 |Title    |Date|
 |---------|----|  
 |"Comic Authority: Sarcasm in Premodern Arabic Literature," pp. 85-117. In Stephen Alan Baragona and Elizabeth Louise Rambo, eds., _Words that Tear the Flesh: Essays on Sarcasm in Medieval and Early Modern Literature and Cultures_, Fundamentals of Medieval and Early Modern Culture Vol. 21. Berlin, Walter de Gruyter, 2018.| 2018|
 
-_In Press_
+_In Press_  
 -----
 * “Early ‘Traditionist Sufis’: A Network Analysis.” In Belal Abu-Alabbas, Michael Mann, and Christopher Melchert, eds., [_Modern Hadith Studies: Continued Debates and New Approaches_](https://www.amazon.co.uk/Modern-Hadith-Studies-Continued-Approaches/dp/1474441793 "Pre-order on Amazon"). Edinburgh: Edinburgh University Press: 2019. 
 
