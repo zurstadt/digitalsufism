@@ -15,10 +15,10 @@ Education
 Academic Certificates  
 =====
 
-|Institution|Certification|Date|  
-|-----------|-------------|----|
+|Institution/Directors|Certification|Date|  
+|---------------------|-------------|----|
 |Santa Fe Institute (Santa Fe, NM)|[Santa Fe Institute Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school)|Jun.-Jul. 2017|
-|Liège University in association with the Mamluk Studies Annual Conference, under the direction of Drs. Frederic Bauden and Elise Frannsen (Liège University)|[Holistic Approach to Manuscript Studies Course](http://web.philo.ulg.ac.be/islamo/portfolio-item/agenda/?date1=2015)|Jun. 2015|
+|Drs. Frederic Bauden and Elise Frannsen (Liège University, Belgium)|[Holistic Approach to Manuscript Studies Course](http://web.philo.ulg.ac.be/islamo/portfolio-item/agenda/?date1=2015)|Jun. 2015|
 |_Center for Arabic Studies Abroad_ [(CASA)](https://casa.fas.harvard.edu/) (Cairo, Egypt)|Full Year Fellow|2011-2012|
 
 Teaching & Educational Projects
@@ -50,15 +50,15 @@ _Refereed Book Chapters_
 
 |Title    |Date|
 |---------|----|  
-|"[Comic Authority: Sarcasm in Premodern Arabic Literature](https://www.academia.edu/35732520/Comic_Authority_Sarcasm_in_Pre-modern_Arabic_Literature "Read online")," pp. 85-117. In Stephen Alan Baragona and Elizabeth Louise Rambo, eds., _Words that Tear the Flesh: Essays on Sarcasm in Medieval and Early Modern Literature and Cultures_, Fundamentals of Medieval and Early Modern Culture Vol. 21. Berlin, Walter de Gruyter, 2018.| 2018|
+|"[Comic Authority: Sarcasm in Premodern Arabic Literature](https://www.academia.edu/35732520/Comic_Authority_Sarcasm_in_Pre-modern_Arabic_Literature "Read online")," pp. 85-117. In Stephen Alan Baragona and Elizabeth Louise Rambo, eds., [_Words that Tear the Flesh: Essays on Sarcasm in Medieval and Early Modern Literature and Cultures_](https://www.amazon.com/Words-Fundamentals-Medieval-Modern-Culture/dp/3110562111 "Buy the book"), Fundamentals of Medieval and Early Modern Culture Vol. 21. Berlin, Walter de Gruyter, 2018.| 2018|
 
 _In Press_  
 -----
-* “Early ‘Traditionist Sufis’: A Network Analysis.” In Belal Abu-Alabbas, Michael Mann, and Christopher Melchert, eds., [_Modern Hadith Studies: Continued Debates and New Approaches_](https://www.amazon.co.uk/Modern-Hadith-Studies-Continued-Approaches/dp/1474441793 "Pre-order on Amazon"). Edinburgh: Edinburgh University Press: 2019. 
+* “Early ‘Traditionist Sufis’: A Network Analysis.” In Belal Abu-Alabbas, Michael Mann, and Christopher Melchert, eds., [_Modern Hadith Studies: Continued Debates and New Approaches_](https://www.amazon.co.uk/Modern-Hadith-Studies-Continued-Approaches/dp/1474441793 "Buythe book"). Edinburgh: Edinburgh University Press, 2019. 
 
 * "An Integral Abū Nuwās: The Articulation of Transgressive Religiosity in his _zuhdiyyāt_ and _khamriyyāt_." In Kyrill Dmitriev and Christine van Ruymbeke, eds., _Wine Poetry as a World Genre_, Leiden: E.J. Brill, 2019.
 
-* "Classical Sufi _waṣāyā_: Early Systematic Sufi Literature," _ASMEA_ Journal (Forthcoming).
+* "Classical Sufi _waṣāyā_: Early Systematic Sufi Literature," _ASMEA Journal_ (Forthcoming).
 
 _In Preparation_
 -----
