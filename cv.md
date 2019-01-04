@@ -112,7 +112,7 @@ Volunteer & Civic Activities
 
 |Organization (Position)    |Date|
 |---------------------------|----|
-|Reading Partners DC, Volunteer|2017–2018|
-|Special Olympics World Games, Volunteer| 2015, 2019|
-|Trees Atlanta, Volunteer | 2013–2016|
-|Tulane University Ornithological Society, Co-President | 2005-2007|
+|[Reading Partners DC, Volunteer](https://readingpartners.org/location/washington-dc/ "Website")|2017–2018|
+|[Special Olympics World Games](https://www.specialolympics.org/stories/news/world-games-abu-dhabi-2019 "Website"), Volunteer| 2015, 2019|
+|[Trees Atlanta](https://treesatlanta.org/ "Website"), Volunteer | 2013–2016|
+|Tulane University Ornithological Society, Founder & Co-President | 2005-2007|
