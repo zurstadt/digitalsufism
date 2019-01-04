@@ -47,7 +47,7 @@ _Refereed Book Chapters_
 
 |Title    |Date|
 |---------|----|  
-|"Comic Authority: Sarcasm in Premodern Arabic Literature," pp. 85-117. In Stephen Alan Baragona and Elizabeth Louise Rambo, eds., _Words that Tear the Flesh: Essays on Sarcasm in Medieval and Early Modern Literature and Cultures_, Fundamentals of Medieval and Early Modern Culture Vol. 21. Berlin, Walter de Gruyter, 2018.| 2018|
+|"[Comic Authority: Sarcasm in Premodern Arabic Literature](https://www.academia.edu/35732520/Comic_Authority_Sarcasm_in_Pre-modern_Arabic_Literature "Read online")," pp. 85-117. In Stephen Alan Baragona and Elizabeth Louise Rambo, eds., _Words that Tear the Flesh: Essays on Sarcasm in Medieval and Early Modern Literature and Cultures_, Fundamentals of Medieval and Early Modern Culture Vol. 21. Berlin, Walter de Gruyter, 2018.| 2018|
 
 _In Press_  
 -----
