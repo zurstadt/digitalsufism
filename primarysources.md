@@ -14,7 +14,7 @@ The order of this bibliography proceeds according to the author's date of death.
 
 ===
 
-## Bibliography
+## Bibliography<
 
 ===
 
@@ -46,7 +46,7 @@ The order of this bibliography proceeds according to the author's date of death.
   
   - <details><summary>Translations</summary>
 
-    - As above.
+    - Bernd Radtke (ed.). "_Kitāb al-Karam wa-l-Jūd wa-Sakhāʾ al-Nufūs_," pp. 3-43 (Part A). In Radtke (ed.). _Materialen zur alten islamische Frömmigkeit_, Basic Texts in Islamic Mysticism Vol. 2. Leiden: Brill, 2008.
 
  </details>
  
@@ -1622,27 +1622,6 @@ The order of this bibliography proceeds according to the author's date of death.
 </details>
 
 ---
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
-</script>
-
-</body>
-</html>
-
 
 ===
 
