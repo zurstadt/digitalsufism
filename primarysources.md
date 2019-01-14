@@ -88,7 +88,7 @@ The order of this bibliography proceeds according to the author's date of death.
   
   - <details><summary>Editions</summary>
 
-    - A.J. Arberry (ed.). _Kitāb al-Tawahhum_. Cairo: Lanjnat al-Taʾlīf wa-l-Tajamah wa-l-Nashr, 1937 [(link)](https://ia800504.us.archive.org/31/items/sdakahh_gmail/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB%20%D8%A8%D9%86%20%D8%A3%D8%B3%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A%20-%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AA%D9%88%D9%87%D9%85.pdf "Download"); reprint (with indices) Cairo: Maktabat al-Nahḍah al-Islāmīyah and Aleppo: Dār al-Waʿī, 1979 = Zaqazāīq (Egypt): Dār al-Arqām, 1989 = Baghdad and London: Bayt al-Warrāq, 2010.
+    - A.J. Arberry (ed.). _Kitāb al-Tawahhum_. Cairo: Lanjnat al-Taʾlīf wa-l-Tajamah wa-l-Nashr, 1937 [(link)](https://ia800504.us.archive.org/31/items/sdakahh_gmail/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB%20%D8%A8%D9%86%20%D8%A3%D8%B3%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A%20-%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AA%D9%88%D9%87%D9%85.pdf "Download"); reprint (with indices) Cairo: Maktabat al-Nahḍah al-Islāmīyah and Aleppo: Dār al-Waʿī, 1979 = Zaqāzīq (Egypt): Dār al-Arqām, 1989 = Baghdad and London: Bayt al-Warrāq, 2010.
 
     - Khālid ʿAbd al-Raḥmān al-ʿAkk (ed.). _al-Tawahhum fī Waṣf Aḥwāl al-Ākhirah_. Beirut: Dār al-Bashāʾir al-Islāmīyah, 1411/1991.
 
