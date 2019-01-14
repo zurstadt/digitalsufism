@@ -51,8 +51,6 @@ The order of this bibliography proceeds according to the author's date of death.
 
 </details>
  
-</details>
-
 ---  
 
 ###### Abū ʿAbd Allāh al-Ḥārith b. Asad al-Muḥāsibī (d. Baghdad, 243/857)<sup id="note6">[6](#f6)</sup> (+)  
