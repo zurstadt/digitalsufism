@@ -952,7 +952,7 @@ The order of this bibliography proceeds according to the author's date of death.
 </details>
 
 <details>
-  <summary>**Mistake here**5. _Adab Mujālāsat al-Mashāyikh wa-Ḥifẓ Ḥumumātihim_</summary>
+  <summary>5. _Adab Mujālāsat al-Mashāyikh wa-Ḥifẓ Ḥumumātihim_</summary>
   
   - Kenneth Honerkamp, "__Adab Mujālāsat al-Mashāyikh wa-Ḥifẓ Ḥumumātihim_," _Maʿārif Islāmī_ 20/2 (1382^/2004): pp. 149-168 [(link)](http://ensani.ir/file/download/article/20101119101503-396.pdf "Download"); reprint II, pp. 89-120. In  Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), _Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism_, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.  Majmūʿah-yi
 
