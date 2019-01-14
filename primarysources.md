@@ -1,4 +1,4 @@
-#Primary Sources
+# Primary Sources
 
 The following bibliography presents the Arabic sources that are extant or largely preserved in later writings<sup id="note1">[1](#f1)</sup> by the earliest Sufis or "proto-Sufis" who were active before or contemporary with ʿAbd al-Karīm al-Qushayrī (d. 465/1072). The focus on these early Arabic sources is important for three reasons.
 
@@ -14,7 +14,7 @@ The order of this bibliography proceeds according to the author's date of death.
 
 ===
 
-<h2>Bibliography</h2>
+## Bibliography
 
 ===
 
