@@ -15,7 +15,7 @@ The order of this bibliography proceeds according to the author's date of death.
 ## Bibliography
 
 <details>
-  <summary>**3rd/9th-century authors** </summary>  
+  <summary> **3rd/9th-century authors** </summary>  
   
 ---
 
@@ -417,7 +417,7 @@ The order of this bibliography proceeds according to the author's date of death.
 ---
 
 <details>
-  <summary>**4th/10th-century authors** </summary>
+  <summary> **4th/10th-century authors** </summary>
   
 ###### Abū al-Ḥusayn Muḥammad b. Aḥmad al-Baghawī al-Nūrī (d. Iraq?, ca. 295/907) (+)  
 
@@ -845,7 +845,7 @@ The order of this bibliography proceeds according to the author's date of death.
 ---
 
 <details>
-  <summary>**5th/11th-century authors** </summary> 
+  <summary> **5th/11th-century authors** </summary> 
  
 ---
 
