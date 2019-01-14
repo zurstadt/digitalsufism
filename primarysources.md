@@ -16,10 +16,8 @@ The order of this bibliography proceeds according to the author's date of death.
 
 ## Bibliography
 
-===
-
 <details>
-  <summary>3rd/9th-century authors</summary>  
+  <summary>**3rd/9th-century authors***</summary>  
   
 ---
 
@@ -419,8 +417,6 @@ The order of this bibliography proceeds according to the author's date of death.
 </details>
 
 ---
-
-===
 
 <details>
   <summary>4th/10th-century authors</summary>
@@ -849,8 +845,6 @@ The order of this bibliography proceeds according to the author's date of death.
 </details>
 
 ---
-
-===
 
 <details>
   <summary>5th/11th-century authors</summary> 
@@ -1621,9 +1615,7 @@ The order of this bibliography proceeds according to the author's date of death.
 
 ---
 
-===
-
-<h2> Endnotes </h2>
+## Endnotes
 <a id="f1">1</a>: For further information about sources that are attributed to early Sufis figures, but which are no longer extant, see the [Future Directions](https://zurstadt.github.io/digitalsufism/futuredirections) page. [↩](#note1 "Return to text")  
 <a id="f2">2</a>: Julian Baldick, _Mystical Islam: An Introduction to Sufism_, 2<sup>nd</sup> ed. (London: I.B. Tauris, 2008 [1989]), p. 50. [↩](#note2 "Return to text")  
 <a id="f3">3</a>: For a description of some of the most important of these figures, see the comments in Jeremy Farrell, "Early Traditionist Sufis: A Network Analysis," in Belal Abo Elabbas, Michael Dann, and Christopher Melchert (eds.), _Modern Hadith Studies between Western and Arabophone Approaches_. Edinburgh: Edinburgh University Press (Forthcoming). [↩](#note3 "Return to text")  
