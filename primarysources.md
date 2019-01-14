@@ -14,7 +14,7 @@ The order of this bibliography proceeds according to the author's date of death.
 
 ===
 
-## Bibliography<
+## Bibliography
 
 ===
 
@@ -31,6 +31,7 @@ The order of this bibliography proceeds according to the author's date of death.
   - **MS**: Bankipore/Patna (now [Khuda Bakhsh Oriental Library](http://kblibrary.bih.nic.in/ "Website")) I, 141 no. 1374.  
 
 </details>
+
 ---
 
 ###### Abū al-Shaykh Muḥammad b. al-Ḥusayn al-Burjulānī (d. Baghdad, 852-3)  
@@ -48,9 +49,9 @@ The order of this bibliography proceeds according to the author's date of death.
 
     - Bernd Radtke (ed.). "_Kitāb al-Karam wa-l-Jūd wa-Sakhāʾ al-Nufūs_," pp. 3-43 (Part A). In Radtke (ed.). _Materialen zur alten islamische Frömmigkeit_, Basic Texts in Islamic Mysticism Vol. 2. Leiden: Brill, 2008.
 
- </details>
+</details>
  
- </details>
+</details>
 
 ---  
 
@@ -77,7 +78,6 @@ The order of this bibliography proceeds according to the author's date of death.
     
     - Şahin Filiz and Hülya Kücük (trans.). _Er-Riâye_. Istanbul: Insan Yayınları, 2011.  
 
-    
 </details>
 
 <details>
@@ -794,9 +794,9 @@ The order of this bibliography proceeds according to the author's date of death.
  
     - A.J. Arberry (ed.) _al-Taʿarruf li-Madhhab Ahl al-Taṣawwuf_. Cairo: Maktabat al-Khānjī, 1936 [(link)](https://archive.org/details/123boukrika44_maktoob_20140203_2202 "Download") 
   
-    - Maḥmūd Amīn Nawāwī (ed.) Cairo: Maktabat al-Kullīyāt al-Azharīyah, 1992. 
+    - Maḥmūd Amīn Nawāwī (ed.). _al-Taʿarruf li-Madhhab Ahl al-Taṣawwuf_. Cairo: Maktabat al-Kullīyāt al-Azharīyah, 1992. 
 
-    - Aḥmad Shams al-Dīn (ed.). Beirut: Dār al-Kutub al-ʿIlmīyah, 1422/2001.  
+    - Aḥmad Shams al-Dīn (ed.). _al-Taʿarruf li-Madhhab Ahl al-Taṣawwuf_. Beirut: Dār al-Kutub al-ʿIlmīyah, 1422/2001.  
 
   - <details><summary>Translations</summary>
 
