@@ -46,6 +46,8 @@ The order of this bibliography proceeds according to the author's date of death.
     - Bernd Radtke (ed.). "_Kitāb al-Karam wa-l-Jūd wa-Sakhāʾ al-Nufūs_," pp. 3-43 (Part A). In Radtke (ed.). _Materialen zur alten islamische Frömmigkeit_, Basic Texts in Islamic Mysticism Vol. 2. Leiden: Brill, 2008.
 
 </details>
+
+</details>
  
  ---  
 
