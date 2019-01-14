@@ -12,10 +12,12 @@ Finally, drawing attention to these early works and their relational data is esp
 
 The order of this bibliography proceeds according to the author's date of death. This information, along with publication information, is given according to (_hijrī qamarī / Gregorian_) dates; a carat (^) indicates the _hijri shamsī_ calendar used in the Islamic Republic of Iran. Authors whose names are marked with a **(+)** composed multiple works which survive. Click on an author's name to see a list of surviving works; the notation **(attr.)** is used in cases where authorship of the work is problematic. Click on the name of the work to find bibliographic information, including: editions, translations, and unedited manuscripts (**MS**).
 
+===
+
 ## Bibliography
 
 <details>
-  <summary>**3rd/9th-century authors***</summary>  
+  <summary>**3rd/9th-century authors**</summary>  
   
 ---
 
@@ -417,7 +419,7 @@ The order of this bibliography proceeds according to the author's date of death.
 ---
 
 <details>
-  <summary>4th/10th-century authors</summary>
+  <summary>**4th/10th-century authors**</summary>
   
 ###### Abū al-Ḥusayn Muḥammad b. Aḥmad al-Baghawī al-Nūrī (d. Iraq?, ca. 295/907) (+)  
 
@@ -845,7 +847,7 @@ The order of this bibliography proceeds according to the author's date of death.
 ---
 
 <details>
-  <summary>5th/11th-century authors</summary> 
+  <summary>**5th/11th-century authors**</summary> 
  
 ---
 
