@@ -1,6 +1,3 @@
-<html>
-<body>
-
 # Primary Sources
 
 The following bibliography presents the Arabic sources that are extant or largely reproduced in later writings<sup id="note1">[1](#f1)</sup> by the earliest Sufis or "proto-Sufis" who were active before or contemporary with ʿAbd al-Karīm al-Qushayrī (d. 465/1072). In total, this corpus comprises 142 works by twenty-nine authors, who were active during the period ranging from the beginning of the third/ninth century to the middle of the fifth/eleventh century. The focus on these early Arabic sources is important for three reasons.
@@ -2313,6 +2310,3 @@ Kenneth Avery, <i>Shiblī: His Life and Thought in the Sufi Tradition</i> (Alban
 <a id="f11">11</a>: The attribution has never been satisfactorily established. See the discussion in Radtke (ed.), <i>Adab al-Mulūk</i>, pp. 3-21. [↩](#note11 "Return to text")  
 <a id="f12">12</a>: An edition has been promised in Hassan Ansari and Sabine Schmidtke, "Abū Saʿd al-Ḫargūshī and his <i>Kitāb al-Lawāmiʿ</i>: A Ṣūfī guidebook for preachers in 4<sup>th</sup>/10<sup>th</sup> century Nīšāpūr," <i>Arabica</i> 58 (2011): pp. 503-518. [↩](#note12 "Return to text")  
 <a id="f13">13</a>: Edited by a team of unknown scholars from al-Azhar University (Cairo). Identifying these individuals is an academic desideratum. [↩](#note13 "Return to text")  
-
-</body>
-</html>
