@@ -14,14 +14,13 @@ The order of this bibliography proceeds according to the author's date of death.
 
 Individual works are marked using a color system. The specific information relating to each color is given below:
 
-|      <strong>Button</strong>      |<strong>Types of Works</strong>|
-|----------------------|------------------|
+|<strong>Button</strong>|<strong>Types of Works</strong>|
+|-----------------------|-------------------------------|
 |<button type="button" class="btn btn-default">Discursive Works</button>|Epistles (<i>rasaʾil</i>) and most topical works. If a work has never been described, it is filed to this default setting.|
 |<button type="button" class="btn btn-info"><i>Isnād</i>-based Works</button>|Works composed exclusively using <i>isnād</i>s; this includes, but is not limited to, works on <i>ḥadīth</i>.|
 |<button type="button" class="btn btn-warning">Reconstruction (Source[s])</button>|Works that have been reconstructed by modern scholars. Information about the <strong>source</strong> or sources of reconstruction is given after the title, between parentheses.|
 |<button type="button" class="btn btn-danger">Uncertain Attribution (attr.)</button>|Works that are fragmentary, show evidence of multiple layers of redaction, or which may have been excerpted from later sources; all works of this type are marked with the abbreviation <strong>attr</strong>. Typical of several minor works of al-Muḥāsibī and the <i>waṣīyah</i> genre.|
 
-===
 
 <h2>Bibliography of authors by century</h2><br>
 
@@ -30,6 +29,7 @@ Individual works are marked using a color system. The specific information relat
 
 <details>
   <summary><strong>3rd/9th century</strong></summary>
+
 <id="#authors39_bishr">  <div class="panel-group" id="accordion">
     <div class="panel panel-default">
       <div class="panel-heading">
@@ -86,7 +86,7 @@ Individual works are marked using a color system. The specific information relat
       <div id="collapse39_3" class="panel-collapse collapse">
         <div class="panel-body"><br>This bibliography is taken - with modifications from Sezgin, <i>GAS</i>, I, 640-642 - from Gavin Picken, <i>Spiritual Purification in Islam. The Life and Works of al-Muḥāsibī</i>, Routledge Sufi Series (London: Routledge, 2011), pp. 67-122.<br><br>
         <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi1"><i>Kitāb al-Riʿāyah li-Ḥuqūq Allāh</i> [<i>wa-l-Qiyām bihā</i>]</button>
-          <div id="muhasibi1" class="collapse">
+          <div id="muhasibi1" class="panel-collapse collapse">
     
 <details><summary><strong>Editions</strong></summary>
 
@@ -105,7 +105,7 @@ Individual works are marked using a color system. The specific information relat
 
      <div id="collapse39_24" class="panel-collapse collapse in">
         <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi2"><i>Kitāb al-Waṣāyā / al-Naṣāʾiḥ al-Dīnīyah</i></button>
-        <div id="muhasibi2" class="collapse">
+          <div id="muhasibi2" class="panel-collapse collapse">
    
 <strong>Editions</strong>
    
@@ -117,7 +117,7 @@ Individual works are marked using a color system. The specific information relat
   
     <div id="collapse39_5" class="panel-collapse collapse in">
       <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi3"><i>Kitāb al-Tawahhum</i> [<i>fī Waṣf Aḥwāl al-Ākhirah</i>]</button>
-        <div id="muhasibi3" class="collapse">
+        <div id="muhasibi3" class="panel-collapse collapse">
 
 <details><summary><strong>Editions</strong></summary>
 
@@ -138,7 +138,7 @@ Individual works are marked using a color system. The specific information relat
 
     <div id="collapse39_6" class="panel-collapse collapse in">
       <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi4"><i>Risālat / Kitāb al-Makāsib</i></button>
-        <div id="muhasibi4" class="collapse">  
+        <div id="muhasibi4" class="panel-collapse collapse">  
 
 <strong>Editions</strong>
   
@@ -153,7 +153,7 @@ Individual works are marked using a color system. The specific information relat
 
     <div id="collapse39_7" class="panel-collapse collapse in">
       <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi5"><i>Ādāb al-Nufūs</i></button>
-        <div id="muhasibi5" class="collapse">
+        <div id="muhasibi5" class="panel-collapse collapse">
    
 <strong>Editions</strong>
   
@@ -166,7 +166,7 @@ Individual works are marked using a color system. The specific information relat
 
   <div id="collapse39_8" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi6"><i>Sharḥ al-Maʿrifah wa-Badhl al-Naṣīḥah</i></button>
-   <div id="muhasibi6" class="collapse">  
+     <div id="muhasibi6" class="panel-collapse collapse">  
    
 <strong>Editions</strong>
  
@@ -179,7 +179,7 @@ Individual works are marked using a color system. The specific information relat
 
   <div id="collapse39_9" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi7"><i>Kitāb Badʾ man Anāba ilā Allāh</i></button>
-   <div id="muhasibi7" class="collapse">  
+     <div id="muhasibi7" class="panel-collapse collapse">  
 
 <strong>Editions</strong>
     
@@ -194,7 +194,7 @@ Individual works are marked using a color system. The specific information relat
 
   <div id="collapse39_10" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi8"><i>Kitāb al-Masāʾil fī Aʿmāl al-Qulūb wa-l-Jawāriḥ</i></button>
-   <div id="muhasibi8" class="collapse">  
+     <div id="muhasibi8" class="panel-collapse collapse">  
 
 <strong>Editions</strong>
   
@@ -207,7 +207,7 @@ Individual works are marked using a color system. The specific information relat
   
   <div id="collapse39_11" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi9">[<i>Mukhtaṣar</i>] <i>Kitāb Fahm al-Ṣalāt</i></button>
-   <div id="muhasibi9" class="collapse">  
+     <div id="muhasibi9" class="panel-collapse collapse">  
 
 <strong>Editions</strong>
   
@@ -220,7 +220,7 @@ Individual works are marked using a color system. The specific information relat
 
   <div id="collapse39_12" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi10"><i>Kitāb al-ʿAql</i> or <i>Maʾīyāt / Māhīyāt al-ʿAql</i></button>
-   <div id="muhasibi10" class="collapse">  
+     <div id="muhasibi10" class="panel-collapse collapse">  
 
 <strong>Editions</strong>
   
@@ -235,7 +235,7 @@ Individual works are marked using a color system. The specific information relat
 
   <div id="collapse39_13" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi11"><i>Kitāb al-Tawbah</i></button>
-   <div id="muhasibi11" class="collapse">  
+     <div id="muhasibi11" class="panel-collapse collapse">  
 
 <strong>Editions</strong>
   
@@ -246,7 +246,7 @@ Individual works are marked using a color system. The specific information relat
 
   <div id="collapse39_14" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi12"><i>Risālat al-Mustarshidīn</i></button>
-   <div id="muhasibi12" class="collapse">  
+     <div id="muhasibi12" class="panel-collapse collapse">  
 
 <details><summary>Editions</summary>
 
@@ -262,7 +262,7 @@ Individual works are marked using a color system. The specific information relat
   
   <div id="collapse39_15" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi13"><i>Kitāb Fahm al-Qurʾān</i> [<i>wa-Maʿānīhi</i>]</button>
-   <div id="muhasibi13" class="collapse">  
+     <div id="muhasibi13" class="panel-collapse collapse">  
       
 <strong>Editions</strong>
   
@@ -275,7 +275,7 @@ Individual works are marked using a color system. The specific information relat
 
   <div id="collapse39_16" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi14"><i>Kitāb al-ʿIlm</i></button>
-   <div id="muhasibi14" class="collapse">  
+     <div id="muhasibi14" class="panel-collapse collapse">  
 
 <strong>Editions</strong>
   
@@ -286,7 +286,7 @@ Individual works are marked using a color system. The specific information relat
 
   <div id="collapse39_17" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi15"><i>Muʿātabat al-Nafs</i></button>
-   <div id="muhasibi15" class="collapse">  
+     <div id="muhasibi15" class="panel-collapse collapse">  
 
 <strong>Editions</strong>
    
@@ -299,7 +299,7 @@ Individual works are marked using a color system. The specific information relat
   
   <div id="collapse39_18" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi16"><i>al-Qaṣd wa-l-Rujūʿ ilā Allāh</i></button>
-   <div id="muhasibi16" class="collapse">  
+     <div id="muhasibi16" class="panel-collapse collapse">  
    
 <strong>Editions</strong>
   
@@ -312,7 +312,7 @@ Individual works are marked using a color system. The specific information relat
 
   <div id="collapse39_19" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi17"><i>Kitāb al-Khalwah wa-l-Tanaqqul fī al-ʿIbādah wa-Darajāt al-ʿĀbidīn</i></button>
-   <div id="muhasibi17" class="collapse">  
+     <div id="muhasibi17" class="panel-collapse collapse">  
 
 <strong>Editions</strong>
   
@@ -323,7 +323,7 @@ Individual works are marked using a color system. The specific information relat
 
   <div id="collapse39_20" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi18">[<i>Kitāb</i>] <i>al-Masāʾil fī al-Zuhd</i></button>
-   <div id="muhasibi18" class="collapse">  
+     <div id="muhasibi18" class="panel-collapse collapse">  
 
 <strong>Editions</strong>
   
@@ -336,7 +336,7 @@ Individual works are marked using a color system. The specific information relat
 
   <div id="collapse39_21" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#muhasibi19"><i>al-Baʿth wa-l-Nushūr</i></button>
-   <div id="muhasibi19" class="collapse">  
+   <div id="muhasibi19" class="panel-collapse collapse">  
 
 <strong>Editions</strong>
   
@@ -349,7 +349,7 @@ Individual works are marked using a color system. The specific information relat
 
   <div id="collapse39_22" class="panel-collapse collapse in">
    <div class="panel-body"> <button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#muhasibi20"><strong>Manuscripts / Fragments</strong></button>
-   <div id="muhasibi20" class="collapse">  
+   <div id="muhasibi20" class="panel-collapse collapse">  
 
    
 <details><summary><i>Kitāb / Risālat al-ʿAẓamah</i></summary>
@@ -406,7 +406,7 @@ Individual works are marked using a color system. The specific information relat
     </div>
     <div id="collapse39_23" class="panel-collapse collapse">
       <div class="panel-body"> <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#khuttali1"><i>Kitāb al-Maḥabbah li-llāh</i></button>
-        <div id="khuttali1" class="collapse">  
+        <div id="khuttali1" class="panel-cllapse collapse">  
 
 <details><summary><strong>Editions</strong></summary>  
  
@@ -424,7 +424,7 @@ Individual works are marked using a color system. The specific information relat
 
     <div id="collapse39_24" class="panel-collapse collapse in">
       <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#khuttali2"><i>Suʾālāt Ibn al-Junayd li-Yaḥyā b. Maʿīn</i></button>
-        <div id="khuttali2" class="collapse">  
+        <div id="khuttali2" class="panel-collapse collapse">  
 
 <strong>Editions</strong>
     
@@ -446,7 +446,7 @@ Individual works are marked using a color system. The specific information relat
       </div>
       <div id="collapse39_25" class="panel-collapse collapse">
         <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#tustari1"><i>Tafsīr al-Tustarī</i></button>
-          <div id="tustari1" class="collapse">     
+          <div id="tustari1" class="panel-collapse collapse">     
 
 <details><summary><strong>Editions</strong></summary>
 
@@ -456,7 +456,7 @@ Individual works are marked using a color system. The specific information relat
 
 - Ṭāhā ʿAbd al-Raʾūf Saʿ and Saʿd Ḥasan Muḥammad ʿAlī (eds.) <i>Tafsīr al-Qurʾān al-ʿAẓīm li-Abī Muḥammad Sahl b. Yūnus b. ʿĪsā al-Tustarī</i>. Medina: Dār al-Ḥaram li-l-Turāth, 1425/2004. [(link)](https://archive.org/details/tafsir-tstritafsir-tstri "Download")</details>
 
-<details><summary><strongTranslations</strong></summary>
+<details><summary><strong>Translations</strong></summary>
 
 - <strong>Partial</strong>: Annabel Keeler and Ali Keeler (trans.). <i>Tafsīr al-Tustarī</i>, Great Commentaries on the Holy Qurʾān Vol. 4. Louisville, KY: Fons Vitae and Amman: Royal Āl al-Bayt Institute for Islamic Thought, 2011.</details>
           </div>
@@ -464,7 +464,7 @@ Individual works are marked using a color system. The specific information relat
 
     <div id="collapse39_26" class="panel-collapse collapse in">
       <div class="panel-body"> <button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#tustari2"><i>Laṭāʾif Qiṣaṣ al-Anbiyāʾ</i> (attr.)</button>
-        <div id="tustari2" class="collapse">     
+        <div id="tustari2" class="panel-collapse collapse">     
 
 <strong>Editions</strong>
   
@@ -474,7 +474,7 @@ Individual works are marked using a color system. The specific information relat
 
     <div id="collapse39_27" class="panel-collapse collapse in">
       <div class="panel-body"> <button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#tustari3"><i>al-Muʿāraḍah wa-l-Radd ʿAlā Ahl al-Farq<br>wa-Ahl al-Daʿāwā fī al-Aḥwāl</i> (attr.)</button>
-        <div id="tustari3" class="collapse">     
+        <div id="tustari3" class="panel-collapse collapse">     
 
 <strong>Editions</strong>
   
@@ -549,7 +549,7 @@ Individual works are marked using a color system. The specific information relat
 
 <details><summary><strong>Editions</strong></summary>
 
-- Paul Nwyia. "Textes mystiques inédits d'Abū-l-Ḥasan [<i>sic</i>] al-Nūrī (m. 295/907) avec introduction et notes," <i>Mélanges de l'Université Saint-Joseph</i> 44/9 (Beirut: Impremerie Catholique, 1968): pp. 118-154, at pp. 133-154; reprinted with introduction in Persian by ʿAlīriḍā Dhakāwatī Qarāguzlū (Alireza Zakavati Gharagzlou). <i>Maʿārif Islāmī</i> 16-17 (1368^/2000): pp. 81-119. [(link)](http://ensani.ir/file/download/article/20101118170124-117.pdf "Download")  
+- Paul Nwyia (ed.). "Maqāmāt al-Qulūb," pp. 130-54. In Paul Nwyia. "Textes mystiques inédits d'Abū-l-Ḥasan [<i>sic</i>] al-Nūrī (m. 295/907) avec introduction et notes," <i>Mélanges de l'Université Saint-Joseph</i> 44/9 (Beirut: Impremerie Catholique, 1968): pp. 117-54 [(link)](https://drive.google.com/open?id=1k6G-PpPd2iY_Llzh5eC6zAHMQ0N8aHWG "Download"); reprinted with introduction in Persian by ʿAlīriḍā Dhakāwatī Qarāguzlū (Alireza Zakavati Gharagzlou). <i>Maʿārif Islāmī</i> 16-17 (1368^/2000): pp. 81-119. [(link)](http://ensani.ir/file/download/article/20101118170124-117.pdf "Download")  
   
 - al-Qāsim al-Sāmarrāʾī (ed.). "<i>Maqāmāt al-Qulūb</i>," pp. 1-24. In <i>al-Taṣawwuf al-Baghdādī wa-l-Taṣawwuf al-Khurāsānī</i>: <i>Thalāth Rasāʾil</i>. Baghdad: Dār al-Warrāq li-l-Nashr, 2013.</details>
 
@@ -565,7 +565,7 @@ Individual works are marked using a color system. The specific information relat
 
 <strong>Editions</strong>
   
-- Paul Nwyia, "Textes Mystiques Inédits d'Abū-l-Ḥasan [<i>sic</i>] al-Nūrī (m. 295/907), avec introduction et notes," <i>Mélanges de l'Université Saint-Joseph</i> 48 (1968): 118-154. [(link)](https://drive.google.com/open?id=1k6G-PpPd2iY_Llzh5eC6zAHMQ0N8aHWG "Download")
+- Paul Nwyia (ed.) "Appendice A: Sentences de Nūrī Citées par Sulamī dans <i>Ḥaqāʾiq al-Tafsīr</i>," pp. 144-47. In Paul Nwyia. "Textes Mystiques Inédits d'Abū-l-Ḥasan [<i>sic</i>] al-Nūrī (m. 295/907), avec introduction et notes," <i>Mélanges de l'Université Saint-Joseph</i> 44/9 (1968): pp. 117-54. [(link)](https://drive.google.com/open?id=1k6G-PpPd2iY_Llzh5eC6zAHMQ0N8aHWG "Download"); reprinted with introduction in Persian by ʿAlīriḍā Dhakāwatī Qarāguzlū (Alireza Zakavati Gharagzlou). <i>Maʿārif Islāmī</i> 16-17 (1368^/2000): pp. 81-119. [(link)](http://ensani.ir/file/download/article/20101118170124-117.pdf "Download")
       </div>
      </div>
     </div>
@@ -1305,7 +1305,7 @@ Individual works are marked using a color system. The specific information relat
 
 - Maḥmūd Muḥammad al-Ṭanāḥī (ed.). <i>Dhikr al-Niswah al-Mutaʿabbidāt al-Ṣūfīyāt</i>. Cairo: 1413/1993 [(link)](https://archive.org/details/zknsmtsuzknsmtsu "Download"); reprint Cairo: Al-Hayʾah al-Miṣrīyah al-ʿĀmmah li-l-Kitāb, 1420/1999.  
 
-- Rkia L. Cornell (ed. and trans.). <i>Early Sufi Women. Dhikr al-Niswah al-Mutaʿabbidāt al-Ṣūfiyyāt</i>. Louisville, KY: Fons Vitae, 1999; reprinted III, pp. 483-532. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.  
+- Rkia L. Cornell (ed. and trans.). <i>Early Sufi Women. Dhikr al-Niswah al-Mutaʿabbidāt al-Ṣūfiyyāt</i>. Louisville, KY: Fons Vitae, 1999; reprinted III, pp. 483-532. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.  
 
 - Muṣṭafā ʿAbd al-Qādir ʿĀtā (ed.) <i>Ṭabaqāt al-Ṣūfīyah wa-yalīhi Dhikr al-Niswah al-Mutaʿabbidāt al-Ṣūfīyāt</i>. Beirut: Dār al-Kutub al-ʿIlmīyah, 1418/1998. [(link)](https://archive.org/details/Tabaqatesoufia "Download")</details>  
 
@@ -1350,7 +1350,7 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
   
-  - Kenneth Honerkamp, "<i>Adab Mujālasāt al-Mashāyikh wa-Ḥifẓ Ḥumumātihim</i>," <i>Maʿārif Islāmī</i> 20/2 (1382^/2004): pp. 149-168 [(link)](http://ensani.ir/file/download/article/20101119101503-396.pdf "Download"); reprint II, pp. 89-120. In  Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.  Majmūʿah-yi
+  - Kenneth Honerkamp, "<i>Adab Mujālasāt al-Mashāyikh wa-Ḥifẓ Ḥumumātihim</i>," <i>Maʿārif Islāmī</i> 20/2 (1382^/2004): pp. 149-168 [(link)](http://ensani.ir/file/download/article/20101119101503-396.pdf "Download"); reprint II, pp. 89-120. In  Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.  Majmūʿah-yi
       </div>
      </div>
      
@@ -1377,7 +1377,7 @@ Individual works are marked using a color system. The specific information relat
   
 - Süleyman Ateş (ed.). "<i>Bayān al-Zalal</i>," pp. ####. Süleyman Ateş (ed.). <i>Tisʿat Kutub fī Uṣūl al-Taṣawwuf wa-l-Zuhd li-Abī ʿAbd al-Raḥmān al-Sulamī</i> / <i>Tasavvufun Ana Ilkeleri Sülemî'nin Risaleleri</i>, ١٨٥-٢٠٧. Ankara: Ankara Üniversitesi Basimevi, 1401/1981; reprint Beirut: Al-Nāshir, 1414/1993. ([link)](http://abdelmagidzarrouki.com/2013-05-06-14-45-36/finish/682-/64652-/0 "Download")
 
-- Kenneth Honerkamp (ed.). "<i>Kitāb Bayān Tadhallul al-Fuqarāʾ</i>," III, pp. 17-62. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.</details>
+- Kenneth Honerkamp (ed.). "<i>Kitāb Bayān Tadhallul al-Fuqarāʾ</i>," III, pp. 17-62. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.</details>
 
 <details><summary><strong>Translations</strong></summary>
 
@@ -1395,7 +1395,7 @@ Individual works are marked using a color system. The specific information relat
   
 - Süleyman Ateş (ed.). "<i>Darajāt al-Muʿāmalāt</i>," pp. ٢١-٢٦. In Süleyman Ateş (ed.). <i>Tisʿat Kutub li-Abī ʿAbd al-Raḥmān al-Sulamī</i> / <i>Tasavvufun Ana Ilkeleri Sülemî'nin Risaleleri</i>. Ankara: Ankara Üniversitesi Basimevi, 1401/1981; reprint. Beirut: al-Nāshir, 1414/1993. ([link)](http://abdelmagidzarrouki.com/2013-05-06-14-45-36/finish/682-/64652-/0 "Download")
 
-- Aḥmad Ṭāhirī ʿIrāqī (ed.). "<i>Darajāt al-Muʿāmalāt</i>", I, pp. 465-495. In Naṣr Allāh Pūrjavādī  and Muḥammad Sūrī), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār</i> / <i>Collected Workd of Abū ʿAbd al-Raḥmān al-Sulamī</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.</details>
+- Aḥmad Ṭāhirī ʿIrāqī (ed.). "<i>Darajāt al-Muʿāmalāt</i>", I, pp. 465-495. In Naṣr Allāh Pūrjavādī  and Muḥammad Sūrī), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar</i> / <i>Collected Workd of Abū ʿAbd al-Raḥmān al-Sulamī</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.</details>
 
 <details><summary><strong>Translations</strong></summary>
 
@@ -1435,7 +1435,7 @@ Individual works are marked using a color system. The specific information relat
   
 <details><summary><strong>Editions</strong></summary>
   
-- Etan Kohlberg (ed.). <i>Jawāmiʿ Ādāb al-Ṣūfīyah of Abū ʿAbd al-Raḥmān al-Sulamī</i> (d. 412/1021). Jerusalem: Jerusalem Academic Press, 1976; repr. Cairo: Dār Jawāmiʿ al-Kalam, 1420/1999; repr. I, 311-408. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Etan Kohlberg (ed.). <i>Jawāmiʿ Ādāb al-Ṣūfīyah of Abū ʿAbd al-Raḥmān al-Sulamī</i> (d. 412/1021). Jerusalem: Jerusalem Academic Press, 1976; repr. Cairo: Dār Jawāmiʿ al-Kalam, 1420/1999; repr. I, 311-408. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
 
 - Süleyman Ateş (ed.). "<i>Jawāmiʿ Ādāb al-Ṣūfīyah</i>," pp. ٣٧-٩٢. In Süleyman Ateş (ed.). <i>Tisʿat Kutub li-Abī ʿAbd al-Raḥmān al-Sulamī</i> / <i>Tasavvufun Ana Ilkeleri Sülemî'nin Risaleleri</i>.  Ankara: Kuliyyat Ilahiyat, 1401/1981; reprint Beirut: al-Nāshir, 1414/1993. ([link)](http://abdelmagidzarrouki.com/2013-05-06-14-45-36/finish/682-/64652-/0 "Download") </details> 
   
@@ -1453,9 +1453,9 @@ Individual works are marked using a color system. The specific information relat
 
 <strong>Editions</strong>
   
-- Aḥmad Ṭāhirī ʿIrāqī (ed.). "<i>Kalām al-Shāfiʿī fī al-Taṣawwuf</i> " II, pp. 172-205. In Naṣr Allāh Pūrjavādī  and Muḥammad Sūrī). <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār</i> / <i>Collected Works of Abū ʿAbd al-Raḥmān al-Sulamī</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universtät Berlin), 1991-2010. [(link)](https://ia902908.us.archive.org/22/items/do-tassawf/tassawf.pdf "Download")
+- Aḥmad Ṭāhirī ʿIrāqī (ed.). "<i>Kalām al-Shāfiʿī fī al-Taṣawwuf</i> " II, pp. 172-205. In Naṣr Allāh Pūrjavādī  and Muḥammad Sūrī). <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar</i> / <i>Collected Works of Abū ʿAbd al-Raḥmān al-Sulamī</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universtät Berlin), 1991-2010. [(link)](https://ia902908.us.archive.org/22/items/do-tassawf/tassawf.pdf "Download")
   
-- Muḥammad Sūrī (ed.). "<i>Kitāb Kalām al-Shāfiʿī fī al-Taṣawwuf</i>," III, pp. 417-439. In Naṣr Allāh Pūrjavādī  and Muḥammad Sūrī). <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār</i / <i>Collected Works of Abū ʿAbd al-Raḥmān al-Sulamī</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universtät Berlin), 1991-2010. [(link)](https://www.academia.edu/4186659/%D9%83%D8%AA%D8%A7%D8%A8_%D9%83%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%8A_%D9%81%D9%8A_%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%81_%D9%84%D8%A3%D8%A8%D9%8A_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B3%D9%84%D9%85%D9%8A_%D8%A7%D9%84%D9%86%D9%8A%D8%B3%D8%A7%D8%A8%D9%88%D8%B1%D9%8A_%D8%AA%D8%AD%D9%82%D9%8A%D9%82_%D9%85%D8%AD%D9%85%D8%AF_%D8%B3%D9%88%D8%B1%D9%8A "Download")
+- Muḥammad Sūrī (ed.). "<i>Kitāb Kalām al-Shāfiʿī fī al-Taṣawwuf</i>," III, pp. 417-439. In Naṣr Allāh Pūrjavādī  and Muḥammad Sūrī). <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar</i> / <i>Collected Works of Abū ʿAbd al-Raḥmān al-Sulamī</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universtät Berlin), 1991-2010. [(link)](https://www.academia.edu/4186659/%D9%83%D8%AA%D8%A7%D8%A8_%D9%83%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%8A_%D9%81%D9%8A_%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%81_%D9%84%D8%A3%D8%A8%D9%8A_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B3%D9%84%D9%85%D9%8A_%D8%A7%D9%84%D9%86%D9%8A%D8%B3%D8%A7%D8%A8%D9%88%D8%B1%D9%8A_%D8%AA%D8%AD%D9%82%D9%8A%D9%82_%D9%85%D8%AD%D9%85%D8%AF_%D8%B3%D9%88%D8%B1%D9%8A "Download")
 
 - Aḥmad Farīd Mazyadī (ed.). "<i>Kitāb Kalām al-Shāfiʿī fī al-Taṣawwuf</i>," pp. ####. In Aḥmad Fardīd Mazyadī (ed.). <i>Kitāb al-Futuwwah wa-yalīhi Manāhij al-ʿĀrifīn - Nasīm al-Arwāḥ - Kitāb al-Samāʿ - Ṣifāt al-Dhākirīn wa-l-Mutafakkirīn - Kalām al-Shāfiʿī fī al-Taṣawwuf</i>. Beirut: Dār al-Kutub al-ʿIlmīyah, 1430/2009. [(link)](https://books.google.com/books?id=pCtNDwAAQBAJ&pg=PT31&lpg=PT31&dq=%D9%83%D8%AA%D8%A7%D8%A8+%D8%A7%D9%84%D9%81%D8%AA%D9%88%D8%A9+%D9%88%D9%8A%D9%84%D9%8A%D9%87%D8%A7+%D9%85%D9%86%D9%87%D8%A7%D8%AC+%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%D9%81%D9%8A%D9%86+pdf&source=bl&ots=40JMWnlA2t&sig=xcgpO1SwsELfKg7tDfzaf5ePSd8&hl=en&sa=X&ved=2ahUKEwiShajOyb3fAhWGT98KHZEXD5AQ6AEwCnoECAcQAQ#v=onepage&q=%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%81%D8%AA%D9%88%D8%A9%20%D9%88%D9%8A%D9%84%D9%8A%D9%87%D8%A7%20%D9%85%D9%86%D9%87%D8%A7%D8%AC%20%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%D9%81%D9%8A%D9%86%20pdf&f=false "Read Online")
       </div>
@@ -1467,7 +1467,7 @@ Individual works are marked using a color system. The specific information relat
   
 <details><summary><strong>Editions</strong></summary>
   
-- M.J. Kister (ed.). <i>Kitāb Ādāb al-Ṣuḥbah wa-Ḥusn al-ʿIshrah</i>. Jerusalem: Israel Oriental Society, 1954; reprint II, pp. 31-132. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- M.J. Kister (ed.). <i>Kitāb Ādāb al-Ṣuḥbah wa-Ḥusn al-ʿIshrah</i>. Jerusalem: Israel Oriental Society, 1954; reprint II, pp. 31-132. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
 
 - Yūsuf ʿAlī Bayḍāwī (ed.). <i>Kitāb Ādāb al-Ṣuḥbah wa-Ḥusn al-ʿIshrah</i>. Beirut: Dār al-Kitāb al-ʿArabī, 1410/1990.</details>
 
@@ -1485,9 +1485,9 @@ Individual works are marked using a color system. The specific information relat
         
 <strong>Editions</strong>
   
-- <i>Kitāb al-Arbaʿīn fī al-Taṣawwuf</i>. Hyderabad: Majlis Dāʾirat al-Maʿārif al-ʿUthmānīyah, 1369/1950; reprint 1401/1981 [(link)](https://drive.google.com/open?id=1aUhfipm5NXxSTlQr8iDowDhhq7wZdlDM "Download"); reprint Beirut: Dār al-Mashāriʿ, 1428/2007; reprinted in II, pp. 533-51. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- <i>Kitāb al-Arbaʿīn fī al-Taṣawwuf</i>. Hyderabad: Majlis Dāʾirat al-Maʿārif al-ʿUthmānīyah, 1369/1950; reprint 1401/1981 [(link)](https://drive.google.com/open?id=1aUhfipm5NXxSTlQr8iDowDhhq7wZdlDM "Download"); reprint Beirut: Dār al-Mashāriʿ, 1428/2007; reprinted in II, pp. 533-51. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
 
-- Muḥammad Sūrī (ed.) <i>Kitāb al-Arbaʿīn li-l-Ṣūfīyah</i>," III, pp. 275-316. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Muḥammad Sūrī (ed.) <i>Kitāb al-Arbaʿīn li-l-Ṣūfīyah</i>," III, pp. 275-316. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
       </div>
      </div>
      
@@ -1497,7 +1497,7 @@ Individual works are marked using a color system. The specific information relat
   
 <details><summary><strong>Editions</strong></summary>
 
-- Süleyman Ateş (ed.)."<i>Kitāb al-Futuwwah</i>," pp. ١-١١٥. In Süleyman Ateş (ed.). <i>Tasavvufta Fütüvet</i>. Ankara: Ankara Üniversitesi, 1977 [(link)](http://kitaplar.ankara.edu.tr/dosyalar/pdf/743.pdf "Download"); reprint II, pp. 207-334. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Süleyman Ateş (ed.)."<i>Kitāb al-Futuwwah</i>," pp. ١-١١٥. In Süleyman Ateş (ed.). <i>Tasavvufta Fütüvet</i>. Ankara: Ankara Üniversitesi, 1977 [(link)](http://kitaplar.ankara.edu.tr/dosyalar/pdf/743.pdf "Download"); reprint II, pp. 207-334. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
 
 - Ḥassān Dhunnūn al-Thārimī and Muḥammad ʿAbd Allāḥ al-Qadaḥāt (eds.). <i>Kitāb al-Futuwwah</i>. Amman: Dār al-Rāzī, 1422/2002. [(link)](https://ia801407.us.archive.org/19/items/abuyaala_ajzaa17122010/futuwa_solami.pdf "Download")
     
@@ -1523,7 +1523,7 @@ Individual works are marked using a color system. The specific information relat
   
 - ʿAlī ʿAqaleh ʿArsān, "<i>al-Samāʿ li-Abī ʿAbd al-Raḥmān al-Sulamī</i>," <i>al-Turāth al-ʿArabī</i> 5/19 (1985): pp. 80-94. [(link)](https://ia800608.us.archive.org/32/items/turath_40/N19.pdf "Download")
 
-- Naṣr Allāh Pūrjavādī, "<i>Dū Athr-i Kuhan dar Samāʿ az Abū ʿAbd al-Raḥmān al-Sulamī va Abū Manṣūr Iṣfahānī</i> " <i>Maʿārif Islāmī</i> 20 (1367^/1989): pp. 291-366, at pp. 344-60 [(link)](http://ensani.ir/file/download/article/20101118165443-110.pdf "Download"); reprint II, pp. 1-30. In Naṣr Allāh Pūrjavādī  and Muḥammad Sūrī). <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār</i / <i>Collected Works of Abū ʿAbd al-Raḥmān al-Sulamī</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universtät Berlin), 1991-2010.
+- Naṣr Allāh Pūrjavādī, "<i>Dū Athr-i Kuhan dar Samāʿ az Abū ʿAbd al-Raḥmān al-Sulamī va Abū Manṣūr Iṣfahānī</i> " <i>Maʿārif Islāmī</i> 20 (1367^/1989): pp. 291-366, at pp. 344-60 [(link)](http://ensani.ir/file/download/article/20101118165443-110.pdf "Download"); reprint II, pp. 1-30. In Naṣr Allāh Pūrjavādī  and Muḥammad Sūrī). <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va-Rasāʾil-i Dīgar</i> / <i>Collected Works of Abū ʿAbd al-Raḥmān al-Sulamī</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universtät Berlin), 1991-2010.
 
 - Aḥmad Farīd Mazyadī (ed.). "<i>Kitāb al-Samāʿ</i>," pp. ####. In Aḥmad Farīd Mazyadī (ed.). <i>Kitāb al-Futuwwah wa-yalīhi Manāhij al-ʿĀrifīn - Nasīm al-Arwāḥ - Kitāb al-Samāʿ - Ṣifāt al-Dhākirīn wa-l-Mutafakkirīn - Kalām al-Shāfiʿī fī al-Taṣawwuf</i>. Beirut: Dār al-Kutub al-ʿIlmīyah, 1430/2009. [(link)](https://books.google.com/books?id=pCtNDwAAQBAJ&pg=PT31&lpg=PT31&dq=%D9%83%D8%AA%D8%A7%D8%A8+%D8%A7%D9%84%D9%81%D8%AA%D9%88%D8%A9+%D9%88%D9%8A%D9%84%D9%8A%D9%87%D8%A7+%D9%85%D9%86%D9%87%D8%A7%D8%AC+%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%D9%81%D9%8A%D9%86+pdf&source=bl&ots=40JMWnlA2t&sig=xcgpO1SwsELfKg7tDfzaf5ePSd8&hl=en&sa=X&ved=2ahUKEwiShajOyb3fAhWGT98KHZEXD5AQ6AEwCnoECAcQAQ#v=onepage&q=%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%81%D8%AA%D9%88%D8%A9%20%D9%88%D9%8A%D9%84%D9%8A%D9%87%D8%A7%20%D9%85%D9%86%D9%87%D8%A7%D8%AC%20%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%D9%81%D9%8A%D9%86%20pdf&f=false "Read Online")
       </div>
@@ -1535,7 +1535,7 @@ Individual works are marked using a color system. The specific information relat
 
 <details><summary><strong>Editions</strong></summary>
   
-- Etan Kohlberg (ed.). "<i>Manāhij al-ʿĀrifīn</i>: <i>A Treatise on Ṣūfism by Abū ʿAbd al-Raḥmān al-Sulamī</i>," <i>Jerusalem Studies in Arabic and Islam</i> 1 (1979): pp. 19-39; reprint II, pp. 133-158. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Etan Kohlberg (ed.). "<i>Manāhij al-ʿĀrifīn</i>: <i>A Treatise on Ṣūfism by Abū ʿAbd al-Raḥmān al-Sulamī</i>," <i>Jerusalem Studies in Arabic and Islam</i> 1 (1979): pp. 19-39; reprint II, pp. 133-158. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
 
 - Süleyman Ateş (ed.). "<i>Manāhij al-ʿĀrifīn</i>," pp. ٣-١٩. In Süleyman Ateş (ed.). <i>Tisʿat Kutub fī Uṣūl al-Taṣawwuf wa-l-Zuhd li-Abī ʿAbd al-Raḥmān al-Sulamī</i> / <i>Tasavvufun Ana Ilkeleri Sülemî'nin Risaleleri</i>. Ankara: Ankara Üniversitesi Basimevi, 1401/1981; reprintBeirut: al-Nāshir, 1414/1993. ([link)](http://abdelmagidzarrouki.com/2013-05-06-14-45-36/finish/682-/64652-/0 "Download")
 
@@ -1553,7 +1553,7 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
   
-  - Gerhard Böwering, "<i>Pāsukh-i Abū ʿAbd al-Raḥmān al-Sulamī bah yak Istifsār-i Makkī</i>," <i>Maʿārif Islāmī</i> [12/3](ensani.ir/fa/article/journal-number/13623/%D9%85%D8%B9%D8%A7%D8%B1%D9%81-1374-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-36- "Does not appear in the index compiled by the editors") (1374^/1996): pp. 30-44; reprint III, pp. 441-460.  In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010. 
+  - Gerhard Böwering, "<i>Pāsukh-i Abū ʿAbd al-Raḥmān al-Sulamī bah yak Istifsār-i Makkī</i>," <i>Maʿārif Islāmī</i> [12/3](ensani.ir/fa/article/journal-number/13623/%D9%85%D8%B9%D8%A7%D8%B1%D9%81-1374-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-36- "Does not appear in the index compiled by the editors") (1374^/1996): pp. 30-44; reprint III, pp. 441-460.  In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010. 
       </div>
      </div>
      
@@ -1565,7 +1565,7 @@ Individual works are marked using a color system. The specific information relat
   
 - Süleyman Ateş (ed.). "<i>al-Muqaddimah fī al-Taṣawwuf</i>," pp. ٩٣-١٣٠. In Süleyman Ateş (ed.). <i>Tisʿat Kutub fī Uṣūl al-Taṣawwuf wa-l-Zuhd li-Abī ʿAbd al-Raḥmān al-Sulamī</i> / <i>Tasavvufun Ana Ilkeleri Sülemî'nin Risaleleri</i>. Ankara: Ankara Üniversitesi Basimevi, 1401/1981; reprint Beirut: al-Nāshir, 1414/1993. ([link)](http://abdelmagidzarrouki.com/2013-05-06-14-45-36/finish/682-/64652-/0 "Download")
 
-- Ḥusayn Amīn (ed.). <i>al-Muqaddimah fī al-Taṣawwuf wa-Ḥaqīqatuhu</i>. Baghdad: Dār al-Qādisīyah, 1404/1984; reprint II, pp. 457-532. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.). <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Ḥusayn Amīn (ed.). <i>al-Muqaddimah fī al-Taṣawwuf wa-Ḥaqīqatuhu</i>. Baghdad: Dār al-Qādisīyah, 1404/1984; reprint II, pp. 457-532. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.). <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
 
 - Yūsuf Muḥammad Ṭāhā Zaydān (ed.). <i>al-Muqaddimah fī al-Taṣawwuf wa-Ḥaqīqatuhu</i>. Cairo: Maktabat al-Kulliyāt al-Azharīyah, 1407/1987; repr. Beirut: Dār al-Jīl, 1419/1999 [(link)](https://drive.google.com/open?id=1usifjL0alUoeoLys6Gsm1Al6N6BZlGbA "Download")</details>  
 
@@ -1583,7 +1583,7 @@ Individual works are marked using a color system. The specific information relat
   
 - Süleyman Ateş (ed.). "<i>Nasīm al-Arwāḥ</i>," pp. ٩٣-١٣٠. In <i>Tisʿat Kutub fī Uṣūl al-Taṣawwuf wa-l-Zuhd li-Abī ʿAbd al-Raḥmān al-Sulamī</i> / <i>Tasavvufun Ana Ilkeleri Sülemî'nin Risaleleri</i>. Ankara: Ankara Üniversitesi Basimevi, 1401/1981; reprint Beirut: al-Nāshir, 1414/1993. ([link)](http://abdelmagidzarrouki.com/2013-05-06-14-45-36/finish/682-/64652-/0 "Download")
 
-- Aḥmad Ṭāhir ʿIrāqī (ed.). "<i>Nasīm al-Arwāḥ</i>," II, pp. 159-170. In Naṣr Allāh Pūrjavādī  and Muḥammad Sūrī (eds.). <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār</i / <i>Collected Works of Abū ʿAbd al-Raḥmān al-Sulamī</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universtät Berlin), 1991-2010.
+- Aḥmad Ṭāhir ʿIrāqī (ed.). "<i>Nasīm al-Arwāḥ</i>," II, pp. 159-170. In Naṣr Allāh Pūrjavādī  and Muḥammad Sūrī (eds.). <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va-Rasāʾil-i Dīgar</i> / <i>Collected Works of Abū ʿAbd al-Raḥmān al-Sulamī</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universtät Berlin), 1991-2010.
 
 - Aḥmad Farīd Mazyadī (ed.). "<i>Nasīm al-Arwāḥ</i>," pp. ####. In Aḥmad Farīd Mazyadī (ed.). <i>Kitāb al-Futuwwah wa-yalīhi Manāhij al-ʿĀrifīn - Nasīm al-Arwāḥ - Kitāb al-Samāʿ - Ṣifāt al-Dhākirīn wa-l-Mutafakkirīn - Kalām al-Shāfiʿī fī al-Taṣawwuf</i>. Beirut: Dār al-Kutub al-ʿIlmīyah, 1430/2009. [(link)](https://books.google.com/books?id=pCtNDwAAQBAJ&pg=PT31&lpg=PT31&dq=%D9%83%D8%AA%D8%A7%D8%A8+%D8%A7%D9%84%D9%81%D8%AA%D9%88%D8%A9+%D9%88%D9%8A%D9%84%D9%8A%D9%87%D8%A7+%D9%85%D9%86%D9%87%D8%A7%D8%AC+%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%D9%81%D9%8A%D9%86+pdf&source=bl&ots=40JMWnlA2t&sig=xcgpO1SwsELfKg7tDfzaf5ePSd8&hl=en&sa=X&ved=2ahUKEwiShajOyb3fAhWGT98KHZEXD5AQ6AEwCnoECAcQAQ#v=onepage&q=%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%81%D8%AA%D9%88%D8%A9%20%D9%88%D9%8A%D9%84%D9%8A%D9%87%D8%A7%20%D9%85%D9%86%D9%87%D8%A7%D8%AC%20%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%D9%81%D9%8A%D9%86%20pdf&f=false "Read Online")</details>
 
@@ -1599,7 +1599,7 @@ Individual works are marked using a color system. The specific information relat
 
 <details><summary><strong>Editions</strong></summary>
 
-- Abū al-ʿAlāʾ al-ʿAfīfī (ed.). <i>al-Malāmatīyah wa-l-Ṣūfīyah wa-Ahl al-Futuwwah</i>. Cairo: Dār Iḥyāʾ al-Kutub al-ʿArabīyah, 1364/1945; reprint Cairo: Dār ʿĪsā Bābī al-Ḥalabī, 1975; Beirut and Cologne: Manshūrāt al-Jamal, 2015 [(link)](https://archive.org/details/mlamtia "Download"); reprinted in II, pp. 335-440. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.</details>
+- Abū al-ʿAlāʾ al-ʿAfīfī (ed.). <i>al-Malāmatīyah wa-l-Ṣūfīyah wa-Ahl al-Futuwwah</i>. Cairo: Dār Iḥyāʾ al-Kutub al-ʿArabīyah, 1364/1945; reprint Cairo: Dār ʿĪsā Bābī al-Ḥalabī, 1975; Beirut and Cologne: Manshūrāt al-Jamal, 2015 [(link)](https://archive.org/details/mlamtia "Download"); reprinted in II, pp. 335-440. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.</details>
 
 <details><summary><strong>Translations</strong></summary>
 
@@ -1615,11 +1615,11 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
   
-- Abū Maḥfūẓ al-Karīm al-Maʿṣūmī. "<i>Masʾalat Ṣifāt al-Dhākirīn wa-l-Mutafakkirīn li-l-Sulamī</i>," <i>Majallat al-Majmaʿ al-ʿIlmī al-Hindī</i> 9/1-2 (1404/1984): pp. 197-216; [(link)](http://archive.sakhrit.co/MagazineBook/The%20India%20Academy/The%20India%20Academy_1984/Issue_1-2/index.html "Read online - requires Flash Player"); repr. II, pp. 441-56. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.  
+- Abū Maḥfūẓ al-Karīm al-Maʿṣūmī. "<i>Masʾalat Ṣifāt al-Dhākirīn wa-l-Mutafakkirīn li-l-Sulamī</i>," <i>Majallat al-Majmaʿ al-ʿIlmī al-Hindī</i> 9/1-2 (1404/1984): pp. 197-216; [(link)](http://archive.sakhrit.co/MagazineBook/The%20India%20Academy/The%20India%20Academy_1984/Issue_1-2/index.html "Read online - requires Flash Player"); repr. II, pp. 441-56. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.  
 
 - Aḥmad Farīd Mazyadī (ed.). "<i>Ṣifat al-Dhākirīn wa-l-Mutafakkirīn</i>," pp. ####. In Aḥmad Farīd Mazyadī (ed.). <i>Kitāb al-Futuwwah wa-yalīhi Manāhij al-ʿĀrifīn - Nasīm al-Arwāḥ - Kitāb al-Samāʿ - Ṣifāt al-Dhākirīn wa-l-Mutafakkirīn - Kalām al-Shāfiʿī fī al-Taṣawwuf</i>. Beirut: Dār al-Kutub al-ʿIlmīyah, 1430/2009. [(link)](https://books.google.com/books?id=pCtNDwAAQBAJ&pg=PT31&lpg=PT31&dq=%D9%83%D8%AA%D8%A7%D8%A8+%D8%A7%D9%84%D9%81%D8%AA%D9%88%D8%A9+%D9%88%D9%8A%D9%84%D9%8A%D9%87%D8%A7+%D9%85%D9%86%D9%87%D8%A7%D8%AC+%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%D9%81%D9%8A%D9%86+pdf&source=bl&ots=40JMWnlA2t&sig=xcgpO1SwsELfKg7tDfzaf5ePSd8&hl=en&sa=X&ved=2ahUKEwiShajOyb3fAhWGT98KHZEXD5AQ6AEwCnoECAcQAQ#v=onepage&q=%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%81%D8%AA%D9%88%D8%A9%20%D9%88%D9%8A%D9%84%D9%8A%D9%87%D8%A7%20%D9%85%D9%86%D9%87%D8%A7%D8%AC%20%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%D9%81%D9%8A%D9%86%20pdf&f=false "Read Online")
 
-- Kenneth Honerkamp (ed.). "<i>Masʾalat Darajāt al-Ṣādiqīn fī al-Taṣawwuf</i>," III, pp. 63-78, In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Kenneth Honerkamp (ed.). "<i>Masʾalat Darajāt al-Ṣādiqīn fī al-Taṣawwuf</i>," III, pp. 63-78, In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
         </div>
        </div>
        
@@ -1645,7 +1645,7 @@ Individual works are marked using a color system. The specific information relat
   
 <details><summary><strong>Editions</strong></summary>
     
-- Süleyman Ateş (ed.), "<i>Sulūk al-ʿĀrifīn</i>," pp. ١٥٣-١٧٠. In <i>Tisʿat Kutub fī Uṣūl al-Taṣawwuf wa-l-Zuhd li-Abī ʿAbd al-Raḥmān al-Sulamī</i> / <i>Tasavvufun Ana Ilkeleri Sülemî'nin Risaleleri</i>. Ankara: Ankara Üniversitesi Basimevi, 1401/1981; reprint Beirut: al-Nāshir, 1414/1993 ([link)](http://abdelmagidzarrouki.com/2013-05-06-14-45-36/finish/682-/64652-/0 "Download"); reprint III, pp. 557-580. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.</details>
+- Süleyman Ateş (ed.), "<i>Sulūk al-ʿĀrifīn</i>," pp. ١٥٣-١٧٠. In <i>Tisʿat Kutub fī Uṣūl al-Taṣawwuf wa-l-Zuhd li-Abī ʿAbd al-Raḥmān al-Sulamī</i> / <i>Tasavvufun Ana Ilkeleri Sülemî'nin Risaleleri</i>. Ankara: Ankara Üniversitesi Basimevi, 1401/1981; reprint Beirut: al-Nāshir, 1414/1993 ([link)](http://abdelmagidzarrouki.com/2013-05-06-14-45-36/finish/682-/64652-/0 "Download"); reprint III, pp. 557-580. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.</details>
 
 <details><summary><strong>Translations</strong></summary>
 
@@ -1669,7 +1669,7 @@ Individual works are marked using a color system. The specific information relat
   
 <details><summary><strong>Editions</strong></summary>
 
-- Etan Kohlberg (ed.). <i>Jawāmiʿ Ādāb al-Ṣūfīyah wa-ʿUyūb al-Nafs wa-Mudāwātuhā</i>. Jerusalem: Jerusalem Academic Press, 1976; reprinted in I, pp. 409-65. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Etan Kohlberg (ed.). <i>Jawāmiʿ Ādāb al-Ṣūfīyah wa-ʿUyūb al-Nafs wa-Mudāwātuhā</i>. Jerusalem: Jerusalem Academic Press, 1976; reprinted in I, pp. 409-65. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
 
 - Muḥammad ʿAbd al-Munʿim al-Khaffājī and ʿAbd al-ʿAzīz Sharf (eds.). <i>ʿUyūb al-Nafs wa-Mudāwātuhā</i>. Cairo: Dār al-Shurūq, 1401/1981. [(link)](https://ia600307.us.archive.org/18/items/3oyoubAnnafs/3oyoub-annafs.pdf "Download")
 
@@ -1689,7 +1689,7 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
   
-- ʿAbd al-Fattāḥ Aḥmad al-Fāwī (ed.). <i>Uṣūl al-Malāmatīyah wa-Ghalaṭāt al-Ṣūfīyah</i>. Cairo: Maktabat al-Zahrāʾ, 1985/1405; repr. pp. 285-322 in idem. <i>al-Taṣawwuf: al-Wajh wa-l-Wajh al-Ākhir wa-maʿahu taḥqīq</i> "<i>Kitāb al-Malāmatīytah wa-Ghalaṭāt al-Ṣūfīyah</i> " <i>li-l-imām Abī ʿAbd al-Raḥmān al-Sulamī</i>. Cairo: Maktabat al-Zahrāʾ, 1415/1995; reprinted in III, 461-482. In  Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- ʿAbd al-Fattāḥ Aḥmad al-Fāwī (ed.). <i>Uṣūl al-Malāmatīyah wa-Ghalaṭāt al-Ṣūfīyah</i>. Cairo: Maktabat al-Zahrāʾ, 1985/1405; repr. pp. 285-322 in idem. <i>al-Taṣawwuf: al-Wajh wa-l-Wajh al-Ākhir wa-maʿahu taḥqīq</i> "<i>Kitāb al-Malāmatīytah wa-Ghalaṭāt al-Ṣūfīyah</i> " <i>li-l-imām Abī ʿAbd al-Raḥmān al-Sulamī</i>. Cairo: Maktabat al-Zahrāʾ, 1415/1995; reprinted in III, 461-482. In  Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
   
 - Jawad Anwar Qureshi (ed). "<i>Kitāb al-Aghāliṭ</i>," pp. 49-68. In Jawad Anwar Qureshi. <i>The Book of Errors: A Critical Edition and Study of</i> Kitāb al-Aghālit [<i>sic</i>] <i>by Abū ʿAbd al-Raḥmān al-Sulami (d. 412/1021)</i>. Master's Thesis: University of Georgia, 2002. [(link)](https://getd.libs.uga.edu/pdfs/qureshi_jawad_a_200208_ma.pdf "Download")
       </div>
@@ -1703,7 +1703,7 @@ Individual works are marked using a color system. The specific information relat
   
 - Gerhard Böwering and Bilal Orfali (eds.). "<i>Sharḥ Maʿānī al-Ḥurūf</i>, pp. ١-١٩. In Gerhard Böwering and Bilal Orfali (eds.). <i>Rasāʾil Ṣūfīyah li-l-Sulamī</i> / <i>Sufi Treatises of Abū ʿAbd al-Raḥmān al-Sulamī</i>, La Collection Recherches Nouvelle Série Vol. 22. Beirut: Dar El-Machreq, 2009.
 
-- Jean-Jacques Thibon (ed.). "<i>Sharḥ Maʿānī al-Ḥurūf</i>," III, pp. 223-274. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.). <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Jean-Jacques Thibon (ed.). "<i>Sharḥ Maʿānī al-Ḥurūf</i>," III, pp. 223-274. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.). <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
       </div>
      </div>
      
@@ -1887,7 +1887,7 @@ Individual works are marked using a color system. The specific information relat
           
 <strong>Editions</strong>
   
-- Kenneth Honerkamp (ed.). "<i>Adab Mujālasat al-Mashāyikh wa-Ḥifẓ Ḥurumātihim</i>," III, pp. 79-120. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Kenneth Honerkamp (ed.). "<i>Adab Mujālasat al-Mashāyikh wa-Ḥifẓ Ḥurumātihim</i>," III, pp. 79-120. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
       </div>
      </div>
      
@@ -1897,7 +1897,7 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
   
-- Kenneth Honerkamp (ed.). "<i>Kitāb Maḥāsin al-Taṣawwuf</i>," III, 121-146. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Kenneth Honerkamp (ed.). "<i>Kitāb Maḥāsin al-Taṣawwuf</i>," III, 121-146. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
       </div>
      </div>
      
@@ -1907,7 +1907,7 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
   
-- Kenneth Honerkamp (ed.). "<i>Ḥikam Muntakhabah min Aqwāl al-ʿUlamāʾ</i>," III, pp. 147-166. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Kenneth Honerkamp (ed.). "<i>Ḥikam Muntakhabah min Aqwāl al-ʿUlamāʾ</i>," III, pp. 147-166. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
       </div>
      </div>
      
@@ -1917,7 +1917,7 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
   
-- Kenneth Honerkamp (ed.). "<i>Kitāb Fuṣūl fī al-Taṣawwuf</i>," III, pp. 167-222. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Kenneth Honerkamp (ed.). "<i>Kitāb Fuṣūl fī al-Taṣawwuf</i>," III, pp. 167-222. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
       </div>
      </div>
      
@@ -1927,7 +1927,7 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
   
-- Muḥammad Sūrī (ed.). "Mā al-Taṣawwuf wa-man al-Ṣūfī," III, pp. 317-330. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Muḥammad Sūrī (ed.). "Mā al-Taṣawwuf wa-man al-Ṣūfī," III, pp. 317-330. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
       </div>
      </div>
      
@@ -1937,7 +1937,7 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
   
-- Muḥammad Sūrī (ed.). "<i>Mustakhraj min Ḥikāyāt Ḥamdūn al-Qaṣṣār</i>," III, pp. 331-346. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Muḥammad Sūrī (ed.). "<i>Mustakhraj min Ḥikāyāt Ḥamdūn al-Qaṣṣār</i>," III, pp. 331-346. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
       </div>
      </div>
      
@@ -1947,7 +1947,7 @@ Individual works are marked using a color system. The specific information relat
        
 <strong>Editions</strong>
   
-- Muḥammad Sūrī (ed.). "<i>Risālah fī Maʿrifat Allāh</i>," III, 347-62. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Muḥammad Sūrī (ed.). "<i>Risālah fī Maʿrifat Allāh</i>," III, 347-62. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
       </div>
      </div>
      
@@ -1957,7 +1957,7 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
   
-  - Muḥammad Sūrī (ed.). "<i>Risālat Rawḍ al-Murīdīn</i>," III, pp. 363-82. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+  - Muḥammad Sūrī (ed.). "<i>Risālat Rawḍ al-Murīdīn</i>," III, pp. 363-82. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
       </div>
      </div>
      
@@ -1967,7 +1967,7 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
   
-- Muḥammad Sūrī (ed.). "<i>Kitāb Bayān al-Sharīʿah wa-l-Ḥaqīqah</i>," III, 383-406. In Naṣr Allāh Pūrjavādī (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Muḥammad Sūrī (ed.). "<i>Kitāb Bayān al-Sharīʿah wa-l-Ḥaqīqah</i>," III, 383-406. In Naṣr Allāh Pūrjavādī (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
       </div>
      </div>
      
@@ -1977,7 +1977,7 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
   
-- Nadyā Zaydān (Nadia Zeydan) (ed.). "<i>Ādāb al-Ṣūfīyah fī Ityānihim al-Rukhṣ</i>," III, pp. 533-56. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgār / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
+- Nadyā Zaydān (Nadia Zeydan) (ed.). "<i>Ādāb al-Ṣūfīyah fī Ityānihim al-Rukhṣ</i>," III, pp. 533-56. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
       </div>
      </div>
      
