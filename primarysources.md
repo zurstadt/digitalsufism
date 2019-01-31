@@ -1,8 +1,8 @@
 # Primary Sources
 
-The following bibliography presents the Arabic sources that are extant or largely reproduced in later writings<sup id="note1">[1](#f1)</sup> by the earliest Sufis or "proto-Sufis" who were active before or contemporary with ʿAbd al-Karīm al-Qushayrī (d. 465/1072). In total, this corpus comprises 142 works by twenty-nine authors, who were active during the period ranging from the beginning of the third/ninth century to the middle of the fifth/eleventh century. The focus on these early Arabic sources is important for three reasons.
+The following bibliography presents the Arabic sources that are extant or largely reproduced in later writings<sup id="note1">[1](#f1)</sup> by the earliest Sufis or "proto-Sufis" who were active before or contemporary with ʿAbd al-Karīm al-Qushayrī (d. Nishapur, 465/1072). In total, this corpus comprises 142 works by twenty-nine authors, who were active during the period ranging from the beginning of the third/ninth century to the middle of the fifth/eleventh century. The focus on these early Arabic sources is important for three reasons.
 
-First, the rate of publication of Arabic sources on early Sufism has increased dramatically over the past thirty years. Many of these works - especially those from the fourth/tenth and early fifth/eleventh centuries – were documented by Fuat Sezgin (d. 2018) in the first volume of his monumental <i>Geschichte des arabischen Schrifttums</i>  (Leiden: Brill, 1967). However, there is no comprehensive, up-to-date record of the availability of these works in published editions, and some additional material has been located subsequent to Sezgin's study. As a consequence, many of the works noted here have rarely featured in relevant studies of early systematic Sufi literature or activity. The remark of Julian Baldick, who describes a "curious gap in the middle of the fourth century" in Sufis' production of documents typifies the extent to which these works have remained marginal in scholarship on Sufism in European languages.<sup id="note2">[2](#f2)</sup> Although such sources seldom provide more explicit commentary on the nature of early Sufism than works from the later fifth/eleventh century, such as al-Qushayrī's [voluminous output](https://www.academia.edu/11926762/The_Textual_Legacy_of_Abū_l-Qāsim_al-Qušayrī_A_Bibliographic_Record "Bibliography by Martin Nguyen and Francesco Chiabotti") or al-Hujwīrī's <i>Kashf al-Maḥjūb</i> (ed. and trans. [Nicholson](https://archive.org/details/kashfalmahjub00usmauoft/page/n3 "Download") / ed. [Žukhovskiy](https://drive.google.com/open?id=1nJjaKR8gasakwm1EixCQ25dfPKJt1rZu "Download")), they were composed by figures who either witnessed the formative period of the late third/ninth century firsthand, or who lived at a single remove from it and were in contact with individuals who fit the preceding description.<sup id="note3">[3](#f3)</sup>
+First, the rate of publication of Arabic sources on early Sufism has increased dramatically over the past thirty years. Many of the works that appear in this bibliography - especially those from the fourth/tenth and early fifth/eleventh centuries – were documented by Fuat Sezgin (d. 2018) in the first volume of his monumental <i>Geschichte des arabischen Schrifttums</i>  (Leiden: Brill, 1967). However, there is no comprehensive, up-to-date record of the availability of these works in published editions, and some additional material has been located subsequent to Sezgin's study. As a consequence, many of the works noted here have rarely featured in relevant studies of early systematic Sufi literature or activity. The remark of Julian Baldick, who describes a "curious gap in the middle of the fourth century" in Sufis' production of documents typifies the extent to which some of these works have remained marginal in scholarship on Sufism in European languages.<sup id="note2">[2](#f2)</sup> Although a number of the sources listed here do not provide more polished or explicit commentary on the nature of early Sufism than works from the later fifth/eleventh century, such as al-Qushayrī's [voluminous output](https://www.academia.edu/11926762/The_Textual_Legacy_of_Abū_l-Qāsim_al-Qušayrī_A_Bibliographic_Record "Bibliography by Martin Nguyen and Francesco Chiabotti") or al-Hujwīrī's <i>Kashf al-Maḥjūb</i> (ed. and trans. [Nicholson](https://archive.org/details/kashfalmahjub00usmauoft/page/n3 "Download") / ed. [Žukhovskiy](https://drive.google.com/open?id=1nJjaKR8gasakwm1EixCQ25dfPKJt1rZu "Download")), they are nonetheless historiographically valuable. In fat, most were composed by figures who either witnessed the formative period of the late third/ninth century firsthand, or who lived at a single remove from it and were in contact with individuals who fit the preceding description.<sup id="note3">[3](#f3)</sup>
 
 Second, many of the works that appear in this bibliography are based on relational data. That is, the authors explicitly identify the source of quotes or, even more significantly, preface quotations with extensive "pathways of transmission" (Ar. <i>asānīd</i>; sg. <i>isnād</i>). The value of these relational data for better describing the dynamics of early Sufi actvity has been remarked upon by Sara Sviri: "The formative period of Islamic mysticism cannot be properly described without an attempt to map the affiliations that connected individual mystics of this period to one another."<sup id="note4">[4](#f4)</sup> In the [Blog](http://zurstadt/github.io/digitalsufism/blog), I outline a number of ways that such relational data can be used in historical investigations of the development of early Sufism.
 
@@ -10,12 +10,12 @@ Finally, drawing attention to these early works and their relational data is esp
 
 ### How to use this bibliography
 
-The order of this bibliography proceeds according to the author's date of death. Authors are grouped according to the century of their death; click the century to see the listing of authors. Dates of death and publication are given according to (<i>hijrī qamarī</i> / Gregorian) dates, when appropriate; a carat (^) indicates the <i>hijri shamsī</i> calendar used in the Islamic Republic of Iran. Authors whose names are marked with a <strong>(+)</strong> composed multiple works which survive. Click on an author's name to see a list of surviving works. Click on the name of the work to find bibliographic information, including: <strong>Editions</strong>, <strong>Translations</strong>, unedited manuscripts (<strong>MS</strong>), and works that are explicitly <strong>Reproduced</strong> in later sources.
+The order of this bibliography proceeds according to the author's date of death. Authors are grouped according to the century of their death; click the century to see the listing of authors. Dates of death and publication are given according to the (<i>hijrī qamarī</i> / Gregorian) calendars; a carat (^) indicates the <i>hijri shamsī</i> calendar used in the Islamic Republic of Iran. Authors whose names are marked with a <strong>(+)</strong> composed multiple works which survive. Click on an author's name to see a list of surviving works. Click on the name of the work to find bibliographic information, including: <strong>Editions</strong>, <strong>Translations</strong>, unedited manuscripts (<strong>MS</strong>), and works that are explicitly <strong>Reproduced*</strong> in later sources.
 
 Individual works are marked using a color system. The specific information relating to each color is given below:
 
 |<strong>Button</strong>|<strong>Types of Works</strong>|
-|-----------------------|-------------------------------|
+|:-----------------------:|:-------------------------------:|
 |<button type="button" class="btn btn-default">Discursive Works</button>|Epistles (<i>rasaʾil</i>) and most topical works. If a work has never been described, it is filed to this default setting.|
 |<button type="button" class="btn btn-info"><i>Isnād</i>-based Works</button>|Works composed exclusively using <i>isnād</i>s; this includes, but is not limited to, works on <i>ḥadīth</i>.|
 |<button type="button" class="btn btn-warning">Reconstruction (Source[s])</button>|Works that have been reconstructed by modern scholars. Information about the <strong>source</strong> or sources of reconstruction is given after the title, between parentheses.|
@@ -379,6 +379,7 @@ Individual works are marked using a color system. The specific information relat
  - <strong>MS</strong>: Laleli (Istanbul) <i>majmūʿ</i> 3706/20 = Il Halk Kütüphanesi (Çorum) 701/1.</details>
 
 <details><summary><i>Tanbīh ʿalā Aʿmāl al-Qulūb</i> [<i>fī al-Dalālah ʿalā Waḥdānīyat Allāh</i>]</summary>
+
 - <strong>MS</strong>: Carullah (Istanbul), 1101/5 ff 25a-28b = Dār al-Kutub al-Miṣrīyah (Cairo), <i>raqm al-ḥifẓ</i> 4064.</details>
 
 <details><summary><iKitāb al-Ṣabr wa-l-Riḍāʾ</i> (Fragment)</summary>
@@ -605,8 +606,10 @@ Individual works are marked using a color system. The specific information relat
       <div id="collapse410_4 class="panel-collapse collapse in">
        <div class="panel-body"> <button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#junayd2"><i>Waṣīyah</i> MS</button>
         <div id="junayd2" class="panel-collapse collapse">  
+  
+<strong>MS</strong>
         
-- <strong>MS</strong>: Rešit Efendi (Kayseri)<sup id="note8">[8](#f8)</sup> 1218/1.
+- Rešit Efendi (Kayseri)<sup id="note8">[8](#f8)</sup> 1218/1.
       </div>
      </div>
 
@@ -614,7 +617,7 @@ Individual works are marked using a color system. The specific information relat
         <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#junayd3"><i>Waṣīyah</i> Reproduced</button>
         <div id="junayd3" class="panel-collapse collapse">  
 
-<strong><i>Waṣīyah</i> (Reproduced)</strong>
+<strong>Reproduced</strong>
 
 - pp. 49-52 in al-Muʾayyid bi-llāh Aḥmad b. al-Ḥusayn al-Hārūnī al-Ḥasanī (ed.), <i>Siyāsat al-Murīdīn</i>,  ed. ʿAbd Allāh Ismāʿīl Hāshim al-Sharīf and al-Murtaḍā b. Zayd al-Maḥatwarī al-Ḥasanī. Ṣanʿāʾ: Maktabata Markaz Badr, 1422/2001. [(link)](https://ia600209.us.archive.org/3/items/hani_307/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9%20%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%A4%D9%8A%D8%AF%20%D8%A8%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D9%87%D8%A7%D8%B1%D9%88%D9%86%D9%8A%20%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D9%8A_%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81_%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9%20%D8%A7%D9%84%D9%85%D8%AD%D8%B7%D9%88%D8%B1%D9%8A.pdf "Download")
       </div>
@@ -697,12 +700,18 @@ Individual works are marked using a color system. The specific information relat
         </h4>
       </div>
       <div id="collapse410_9" class="panel-collapse collapse">
-       <div class="panel-body"> <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#ibnata1"><i>Tafsīr</i><br>(al-Sulamī [d. 412/1021], <i>Ḥaqāʾiq al-Tafsīr</i>)</button>
+       <div class="panel-body"> <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#ibnata1"><i>Tafsīr / Kitāb Fahm al-Qurʾān</i> (attr.)<br>(al-Sulamī [d. 412/1021], <i>Ḥaqāʾiq al-Tafsīr</i> - <i>Ziyādāt Ḥaqāʾiq al-Tafsīr</i>)</button>
         <div id="ibnata1" class="panel-collapse collapse">
 
-<strong>Editions</strong>
+<details>
+  <summary><strong>Editions</strong></summary>
   
-  - Paul Nwyia (ed.). "<i>Tafsīr Ibn ʿAṭāʾ</i>,” pp. 23-183. In <i>Trois œuvres inédites de mystiques musulmanes / Nuṣūṣ ṣūfīyah ghayru manshūrah</i>, Recherchés A. Nouvelle série, Langue arabe et pensée islamique Tome VII. Beirut: Dar El-Machreq, 1973.
+  - Paul Nwyia (ed.). "<i>Tafsīr Ibn ʿAṭāʾ</i>,” pp. 23-183. In <i>Trois œuvres inédites de mystiques musulmanes / Nuṣūṣ ṣūfīyah ghayru manshūrah</i>, Recherchés A. Nouvelle série, Langue arabe et pensée islamique Tome VII. Beirut: Dar El-Machreq, 1973.</details>
+
+<details>
+  <summary><strong>Translations</strong></summary>
+  
+- The material from al-Sulamī's _Ḥaqāʾiq al-Tafsīr_ is translated in Richard Gramlich. _Abu ʾl-ʿAbbās b. ʿAṭāʾ: Sufi und Koranausleger_, Abhandlungen für die Kunde des Morgenlandes Bd. 51,2. Stuttgart: Franz Steiner, 1995.  
          </div>
         </div>
        </div>
@@ -955,7 +964,7 @@ Individual works are marked using a color system. The specific information relat
 
 - <strong>Partial</strong>: Richard Gramlich, "<i>Über die Standplätze und ihre Wirklichkeite</i>," pp. 50-65. In Richard Gramlich, <i>Islamische Mystik. Sufische Texte zus zehn Jahrhunderten</i>. Stuttgart: W. Kohlhammer, 1992.
 
-- Michael A. Sells (trans.), "Chapter 6. Sarraj: The Seven Stations from the Book of Flashes(<i>Kitāb al-Lumaʿ</i>)," pp. 196-211. In <i>Early Islamic Mysticism: Sufi, Qurʾan, Miʿraj, Poetic and Theological Writings</i>, Classics of Western Spirituality. New York: Paulist Press, 1995. [(link)](https://books.google.com/books?id=BrU54SYQSyoC&printsec=frontcover&dq=intitle:early+islamic+mysticism&hl=en&sa=X&ved=0ahUKEwiQ2ueGoKTfAhXjShUIHezIBTEQ6AEIKjAA#v=onepage&q=intitle%3Aearly%20islamic%20mysticism&f=false  "Read online")</details>
+- Michael A. Sells (trans.), "Chapter 6. Sarraj: The Seven Stations from the Book of Flashes (<i>Kitāb al-Lumaʿ</i>)," pp. 196-211. In <i>Early Islamic Mysticism: Sufi, Qurʾan, Miʿraj, Poetic and Theological Writings</i>, Classics of Western Spirituality. New York: Paulist Press, 1995. [(link)](https://books.google.com/books?id=BrU54SYQSyoC&printsec=frontcover&dq=intitle:early+islamic+mysticism&hl=en&sa=X&ved=0ahUKEwiQ2ueGoKTfAhXjShUIHezIBTEQ6AEIKjAA#v=onepage&q=intitle%3Aearly%20islamic%20mysticism&f=false  "Read online")</details>
       </div>
      </div>
     </div>
@@ -1083,8 +1092,8 @@ Individual works are marked using a color system. The specific information relat
      </div>
      
      <div id="collapse410_32" class="panel-collapse collapse in">
-       <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collpase" data-target="#kalabadhi2"><i>Baḥr al-Fawaʾid al-mashhūr bi-Maʿānī al-Akhbār</i></button>
-         <div id="kalabadhi2" class="panel-body collapse">
+       <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#kalabadhi2"><i>Baḥr al-Fawaʾid al-mashhūr bi-Maʿānī al-Akhbār</i></button>
+         <div id="kalabadhi2" class="panel-collapse collapse">
   
 <strong>Editions</strong>
     
@@ -1106,7 +1115,7 @@ Individual works are marked using a color system. The specific information relat
         </h4>
       </div>
       <div id="collapse410_a" class="panel-collapse collapse">
-        <div class="panel-body"><br>This list of editions and translations is taken - with amendments -  from Saeko Yazaki, <i>Islamic Mysticism and Abū Ṭālib al-Makkī: The Role of the Heart</i>, Routledge Sufi Series (London: Routledge, 2012), pp. 7-9.<br><br>
+        <div class="panel-body"><br>This list of editions and translations is taken - with amendments and additions -  from Saeko Yazaki, <i>Islamic Mysticism and Abū Ṭālib al-Makkī: The Role of the Heart</i>, Routledge Sufi Series (London: Routledge, 2012), pp. 7-9.<br><br>
           <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#makki1"><i>Qūt al-Qulūb fī Muʿāmalāt al-Maḥbūb<br>wa-Waṣf Ṭarīq al-Murīd ilā Maqām al-Tawḥīd</i></button>
             <div id="makki1" class="panel-collapse collapse">
             
@@ -1124,9 +1133,7 @@ Individual works are marked using a color system. The specific information relat
 
 - Muḥammad b. Ibrāhīm b. Muḥammad al-Raḍwānī (ed.). <i>Qūt al-Qulūb fī Muʿāmalāt al-Maḥbūb</i>, 3 vols. Cairo: Maktabat al-Turāth, 1422/2001. [(link)](https://drive.google.com/open?id=1NHoYmo1RqBfxeiykHE8ZMQ3SKwNEX4M0 "Download")
 
-- ʿĀsim Ibrāhīm al-Kayyālī (ed.). <i>Qūt al-Qulūb fī Muʿāmalāt al-Maḥbūb</i>, 2 vols. Beirut: Dār al-Kutub al-Ilmīyah, 1418/1997; 2<sup>nd</sup> ed. 1426/2005.
-
-- <i>Qūt al-Qulūb fī Muʿāmalāt al-Maḥbūb</i>, 2 vols. Beirut: Dāt al-Fikr, N.D.</details>
+- ʿĀsim Ibrāhīm al-Kayyālī (ed.). <i>Qūt al-Qulūb fī Muʿāmalāt al-Maḥbūb</i>, 2 vols. Beirut: Dār al-Kutub al-Ilmīyah, 1418/1997; 2<sup>nd</sup> ed. 1426/2005.</details>
 
 <details><summary><strong>Translations</strong></summary>
 
@@ -1182,10 +1189,9 @@ Individual works are marked using a color system. The specific information relat
         <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#anon1"><i>Kitāb Adab al-Mulūk</i></strong></button>
           <div id="anon1" class="panel-collapse collapse">
 
-
 <details><summary><strong>Editions</strong></summary>
 
-- Bernd Radtke (ed.). <i>Adab al-Mulūk: Ein Handbuch zur islamischen Mystik aus dem 4./10. Jahrhundert</i>, Beiruter Texte und Studien Bd. 37. Beirut: Franz Steiner, 1991.<sup id="note11">[11](#f11)</sup> [(link)](http://menadoc.bibliothek.uni-halle.de/inhouse/content/titleinfo/1473511 "Download")</details>  
+- Bernd Radtke (ed.). <i>Adab al-Mulūk: Ein Handbuch zur islamischen Mystik aus dem 4./10. Jahrhundert</i>, Beiruter Texte und Studien Bd. 37. Beirut: Franz Steiner, 1991.<sup id="note11">[11](#f11)</sup> [(link)](http://menadoc.bibliothek.uni-halle.de/inhouse/content/titleinfo/1473511 "Download")</details>
 
 <details><summary><strong>Translations</strong></summary>
   
@@ -1469,7 +1475,9 @@ Individual works are marked using a color system. The specific information relat
   
 - M.J. Kister (ed.). <i>Kitāb Ādāb al-Ṣuḥbah wa-Ḥusn al-ʿIshrah</i>. Jerusalem: Israel Oriental Society, 1954; reprint II, pp. 31-132. In Naṣr Allāh Pūrjavādī  (I-III) and Muḥammad Sūrī (III) (eds.), <i>Majmūʿah-yi Āthār-i Abū ʿAbd al-Raḥmān al-Sulamī. Bakhshhā-yi az Ḥaqāʾiq al-Tafsīr va Rasāʾil-i Dīgar / Collected Works on Early Sufism</i>, 3 vols. Tehran: Makraz-i Nashr-i Dānishgāhī and Muʾassasah-yi Pazhvahash-i Ḥikmat va Falsafah-yi Īrān and Berlin: Muʾassasah-yi Muṭālaʿāt-i Islāmī and Dānishgāh-i Āzād-i Berlin (Freie Universität Berlin), 1991-2010.
 
-- Yūsuf ʿAlī Bayḍāwī (ed.). <i>Kitāb Ādāb al-Ṣuḥbah wa-Ḥusn al-ʿIshrah</i>. Beirut: Dār al-Kitāb al-ʿArabī, 1410/1990.</details>
+- Yūsuf ʿAlī Bayḍāwī (ed.). <i>Kitāb Ādāb al-Ṣuḥbah wa-Ḥusn al-ʿIshrah</i>. Beirut: Dār al-Kitāb al-ʿArabī, 1410/1990.
+
+- Majdī Fatḥī al-Sayyid Ibrāhīm (ed.). <i>Kitāb Ādāb al-Ṣuḥbah wa-Ḥusn al-ʿIshrah</i>. Ṭanṭā: Dār al-Ṣaḥābah li-l-Turāth, 1410.1990. [(link)](https://drive.google.com/open?id=1J10oqq1BvOjrAyehFKSK67XTs1Xdxa5M "Download")</details>
 
 <details><summary><strong>Translations</strong></summary>
 
@@ -1758,7 +1766,7 @@ Individual works are marked using a color system. The specific information relat
      </div>
      
      <div id="collapse511_38" class="panel-collapse collapse in">
-       <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#sulami34"><i>Masʾalat Māʾīyat al-Faqr wa-Ādābuhu min Kalāmuhu raḥimahu Allāhu ʿalayhi</i></button>
+       <div class="panel-body"> <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#sulami34"><i>Masʾalat Māʾīyat al-Faqr wa-Ādābuhu</i></button>
          <div id="sulami34" class="panel-collapse collapse">
          
 <strong>Editions</strong>
@@ -1997,7 +2005,7 @@ Individual works are marked using a color system. The specific information relat
          
 <strong>Editions</strong>
 
-- <Strong>Partial</strong> Louis Massignon and Paul Krause (eds.). <i>Quatre Textes Inédits Rélatifs a la Biographie d'al-Ḥosayn-ibn Mansour al-Ḥallāj</i>, pp. 15°-25°. Paris: Paul Geuthner, 1914. [(link)](https://drive.google.com/open?id=17N-ab0Nk2MJ7MUZeME7FljEc9dKlCWYa "Download")
+- <Strong>Partial</strong>: Louis Massignon and Paul Krause (eds.). <i>Quatre Textes Inédits Rélatifs a la Biographie d'al-Ḥosayn-ibn Mansour al-Ḥallāj</i>, pp. 15°-25°. Paris: Paul Geuthner, 1914. [(link)](https://drive.google.com/open?id=17N-ab0Nk2MJ7MUZeME7FljEc9dKlCWYa "Download")
 
 - Muḥammad Adīb Jādir (ed.). "<i>Tārīkh al-Ṣūfīyah</i>," pp. ١-٤٢٨ (Part A). In Muḥammad Adīb Jādir. <i>Tārīkh al-Ṣūfīyah wa-bi-dhaylihi Miḥan al-Ṣūfīyah</i>. Damascus: Dār Nīnawā, 1436/2015.
       </div>
@@ -2242,6 +2250,8 @@ Individual works are marked using a color system. The specific information relat
 <strong>Editions</strong>
   
 - <i>Ḥilyat al-Awliyāʾ wa-Ṭabaqāt al-Aṣfiyāʾ</i> (copied in 422/1031), 10 vols. Cairo, Maktabat al-Saʿādah, 13/1932-1938.<sup id="note13">[13](#f13)</sup> [(link)](https://drive.google.com/open?id=1wMcIZuG81OqUEHi3p6yOVMq9uNT2jChE "Download"); reprint Beirut: Dār al-Fikr, 1400/1980. [(link)](http://waqfeya.com/book.php?bid=920 "Download")
+
+- Muḥammad b. ʿAbd Allāh ʿAṭāʾ (ed.). <i>Ḥilyat al-Awliyāʾ wa-Ṭabaqāt al-Aṣfiyāʾ</i>, 10 vols. Beirut: Dār al-Kutub al-ʿIlmiyya, 1417/1997.
       </div>
      </div>
      
@@ -2297,16 +2307,28 @@ Individual works are marked using a color system. The specific information relat
 
 ## Endnotes
 <a id="f1">1</a>: For further information about sources that are attributed to early Sufis figures, but which are no longer extant, see the [Future Directions](https://zurstadt.github.io/digitalsufism/futuredirections) page. [↩](#note1 "Return to text")  
+
 <a id="f2">2</a>: Julian Baldick, <i>Mystical Islam: An Introduction to Sufism</i>, 2<sup>nd</sup> ed. (London: I.B. Tauris, 2008 [1989]), p. 50. [↩](#note2 "Return to text")  
+
 <a id="f3">3</a>: For a description of some of the most important of these figures, see the comments in Jeremy Farrell, "Early Traditionist Sufis: A Network Analysis," in Belal Abo Elabbas, Michael Dann, and Christopher Melchert (eds.), <i>Modern Hadith Studies: Continued Debates and New Approaches</i>. Edinburgh: Edinburgh University Press (Forthcoming). [↩](#note3 "Return to text")  
+
 <a id="f4">4</a>: Sara Sviri, "The early mystical schools of Baghdad and Nīshāpūr, or: In search of Ibn Munāzil," <i>Jerusalem Studies in Arabic and Islam</i> 30 (2005): pp. 450-82, at p. 455. [↩](#note4 "Return to text")  
-<a id="f5">5</a>: The locution "neo-skeptic" was coined by Herbert Berg, "Competing paradigms in the study of Islamic origins: Qurʾān 15:89-91 and the value of <i>isnād</i>s," in Herbert Berg (ed). <i>Method and Theory in the Study of Islamic Origins</i>, Islamic History and Civilization Studies and Texts Vol. 49 (Leiden: Brill, 2003), pp. 259-90, at p. 285. For the specific comments about Sufi historiography, see: Jawid Mojaddedi, <i>The Biographical Tradition in Sufism: The</i> ṭabaqāt <i>genre from al-Sulamī to Jāmī</i> (Richmond, Surrey: RoutledgeCurzon, 2001), p. 2, pp. 171f;
+
+<a id="f5">5</a>: The borrow the term "neo-skeptic" from Herbert Berg, "Competing paradigms in the study of Islamic origins: Qurʾān 15:89-91 and the value of <i>isnād</i>s," pp. 259-90, at p. 285. In Herbert Berg (ed). <i>Method and Theory in the Study of Islamic Origins</i>, Islamic History and Civilization Studies and Texts Vol. 49 (Leiden: Brill, 2003). For the specific comments about Sufi historiography, see: Jawid Mojaddedi, <i>The Biographical Tradition in Sufism: The</i> ṭabaqāt <i>genre from al-Sulamī to Jāmī</i> (Richmond, Surrey: RoutledgeCurzon, 2001), p. 2, pp. 171f;
 Kenneth Avery, <i>Shiblī: His Life and Thought in the Sufi Tradition</i> (Albany, NY: SUNY Press, 2014), p. 2. [↩](#note5 "Return to text")  
+
 <a id="f6">6</a>: Josef van Ess has insisted that this work should be attributed to Abū ʿAbd Allāh (or: ʿAlī) Aḥmad b. ʿĀṣim al-Anṭākī (d. 239/853-4): van Ess, "Review: <i>Spiritual Purification in Islam: The Life and Works of al-Muḥāsibī</i>, by Gavin Picken," <i>Ilâhiyât Studies: A Journal on Islamic and Religious Studies</i> 2/1 (2011): pp. 126-132, at p. 131. [↩](#note6 "Return to text")  
+
 <a id="f7">7</a>: van Ess (ibid, p. 130) avers that the Laleli MS is a transcription from al-Ghazālī's (d. 505/1111) <i>Iḥyāʾ ʿUlūm al-Dīn</i>. [↩](#note7 "Return to text")  
+
 <a id="f8">8</a>: <i>apud.</i> Christopher Melchert, "The Transition from Asceticism to Mysticism at the Middle of the 9<sup>th</sup> Century C.E.," <i>Studia Islamica</i> 83 (1996): pp. 51-70, at p. 70 n. 108. However, Melchert incorrectly contends that this MS is held in Istanbul; neither does he offer any dated evidence to esatablish that this MS can be persuasively attributed to al-Junayd. Compare with the evidence in <i>Waṣīyah</i> (Preserved), below. [↩](#note8 "Return to text")  
+
 <a id="f9">9</a>: Cf. <i>Khizānat al-Turāth: Fihrist Makhṭūṭāt</i> (Cairo: Markaz al-Malik Fayṣal, N.D.), LXIII, p. 77 no. 63403. [(link)](http://shamela.ws/browse.php/book-5678/page-42121#page-62077) [↩](#note9 "Return to text")  
+
 <a id="f10">10</a>: Sezgin (<i>GAS</i> I, p. 661 no. 30(+) ) following the BNRM Catalogue, incorrectly gives the title as "<i>Risāla fī t-taṣawwuf</i> ". [↩](#note10 "Return to text")  
+
 <a id="f11">11</a>: The attribution has never been satisfactorily established. See the discussion in Radtke (ed.), <i>Adab al-Mulūk</i>, pp. 3-21. [↩](#note11 "Return to text")  
+
 <a id="f12">12</a>: An edition has been promised in Hassan Ansari and Sabine Schmidtke, "Abū Saʿd al-Ḫargūshī and his <i>Kitāb al-Lawāmiʿ</i>: A Ṣūfī guidebook for preachers in 4<sup>th</sup>/10<sup>th</sup> century Nīšāpūr," <i>Arabica</i> 58 (2011): pp. 503-518. [↩](#note12 "Return to text")  
-<a id="f13">13</a>: Edited by a team of unknown scholars from al-Azhar University (Cairo). Identifying these individuals is an academic desideratum. [↩](#note13 "Return to text")  
+
+<a id="f13">13</a>: Edited by a team of unknown scholars from al-Azhar University. Identifying these individuals is an academic desideratum. [↩](#note13 "Return to text")  
