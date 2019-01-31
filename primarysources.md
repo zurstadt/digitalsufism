@@ -1746,7 +1746,7 @@ Individual works are marked using a color system. The specific information relat
      </div>
      
      <div id="collapse511_36" class="panel-collapase collapse in">
-       <div class="panel-body"> <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#sulami32"><i>Kitāb al-Amthāl wa-l-Istishhādāt</i/></button>
+       <div class="panel-body"> <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#sulami32"><i>Kitāb al-Amthāl wa-l-Istishhādāt</i></button>
          <div id="sulami32" class="panel-collapse collapse">
          
 <strong>Editions</strong>
