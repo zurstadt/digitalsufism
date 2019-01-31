@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Capturing and visualizing dynamic processes in early Sufism:<br>Evaluating Melchert's 'transition model'
+title: Capturing and visualizing dynamic processes in early Sufism:<br>Evaluating Melchert's 'transition' model
 date: 2019-01-31
 ---
 
