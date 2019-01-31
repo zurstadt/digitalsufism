@@ -2,6 +2,7 @@ name: ditigal sufism
 markdown: kramdown
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
