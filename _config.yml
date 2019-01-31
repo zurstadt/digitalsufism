@@ -1,3 +1,4 @@
+name: ditigal sufism
 markdown: kramdown
 plugins:
   - jekyll-relative-links
