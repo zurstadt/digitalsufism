@@ -1,4 +1,5 @@
 name: ditigal sufism
+theme: jekyll-theme-minimal
 markdown: kramdown
 plugins:
   - jekyll-relative-links
@@ -15,5 +16,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-minimal
