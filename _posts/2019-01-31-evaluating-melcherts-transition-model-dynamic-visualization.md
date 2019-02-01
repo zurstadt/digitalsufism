@@ -125,7 +125,7 @@ The code for creating the dynamic visualization with `gganimate` is fairly strai
            size = "Leader's # of followers"
       )
 
-`geom_line(color = Sulamī)` : the variable `Sulamī` in this dataset is logical, and denotes whether or not the "leader" has his or her own notice / _tarjamah_ in a work by al-Sulamī. Since the varible is logical, the result will be two different colors; the default color scheme in `ggplot2` is a kind of [Miami Dolphins](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqxMZR13ILiCS7G52MlofcKufWGkhCuPwA9PZkR_IoTYpyCw6Q2Q)-ish orange and blue, which isn't terrible but could be better.
+`geom_line(color = Sulamī)` : the variable `Sulamī` in this dataset is logical, and denotes whether or not the "leader" has his or her own notice / _tarjamah_ in a work by al-Sulamī. Since the varible is logical, nodes will appear in two different colors; the default color scheme in `ggplot2` is a kind of [Miami Dolphins](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqxMZR13ILiCS7G52MlofcKufWGkhCuPwA9PZkR_IoTYpyCw6Q2Q)-ish orange and blue, which isn't terrible but could be better. The figures for whom al-Sulamī provides a notice / _tarjamah_ appear in blue, and will only become visible at the start of the 3rd/9th century (see below). 
 
 `geom_hline` : this is to provide a visual reference to the value **0**; aesthetically, it should function to make it easier for the audience to find the "tipping point" of "maximum inconsistency," which Melchert identifies with [al-Muḥāsibī](#muhasibi).
 
