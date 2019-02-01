@@ -175,7 +175,7 @@ There are also now several e-textbooks available on methods in computational app
 
 <a id="f8">8</a>: There is some uncertainty in this number, as it is not possible to positivly identify every named entity in the _isnād_ s with a particular individual. For example, we have erred on the side of caution in considering an individual identified only as "Muḥammad b. al-Ḥasan" (a very common Islamic name), as separate from another figure named "Abū ʿAbd Allāh Muḥammad b. al-Ḥasan al-Baghdādī." [↩](#n8 "Return to text")  
 
-<a id="f9">9</a>: Paul Nwyai, _Exégèse Coranique et Langage Mystique. Nouvel essai sur le lexique technique des mystiques musulmanes_, Série I: Pensée Arabe et Musulmane Tome XLIX (Beirut: Dar El-Machreq, 1970). [(link)](https://drive.google.com/open?id=16p4c6BsumLdq0oBhhVtkYmd-kW7d4z0_ "Download") [↩](#n9 "Return to text")  
+<a id="f9">9</a>: Paul Nwyia, _Exégèse Coranique et Langage Mystique. Nouvel essai sur le lexique technique des mystiques musulmanes_, Série I: Pensée Arabe et Musulmane Tome XLIX (Beirut: Dar El-Machreq, 1970). [(link)](https://drive.google.com/open?id=16p4c6BsumLdq0oBhhVtkYmd-kW7d4z0_ "Download") [↩](#n9 "Return to text")  
 
 <a id="f10">10</a>: See the documentation at <https://camel.abudhabi.nyu.edu/madamira/>. [↩](#n10 "Return to text")  
 
