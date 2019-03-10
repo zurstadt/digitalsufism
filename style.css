@@ -1,0 +1,207 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+    color: #6c6f73;
+}
+
+h1,h2,h3,h4,h5 {
+    color: #333;
+}
+h6 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.8rem;
+    letter-spacing: 0.1rem;
+}
+
+img {
+    max-width: 100%;
+}
+
+.feature-content {
+    padding: 6rem 0;
+   
+}
+
+.feature-dark {
+    background: white;
+    color: black;
+}
+
+.feature-dark h3 {
+    color: black;
+}
+
+#main-footer {
+    background: #262F36;
+    color: white;
+    padding: 6rem 0;
+    font-size: 0.8rem;
+    
+}
+
+#main-footer h6 {
+    color: #718FA9;
+}
+
+#main-footer a,p {
+    color: #6C6F73;
+}
+
+#main-footer #icons {
+    color: white;
+}
+
+
+.navbar {
+    padding: 1rem 2.5rem;
+}
+  
+  #logo a:hover {
+      color: #b3b3b3;
+  }
+
+  #feature-one {
+      background-color: whitesmoke;
+      padding-bottom: 8rem;
+  }
+
+  #feature-two p {
+      font-size: 20px;
+  }
+ 
+  #feature-one p {
+      font-size: 20px;
+  }
+  #feature-three p {
+      font-size: 20px;
+  }
+  #feature-three {
+      padding-bottom: 2.5rem;
+  }
+
+/* Media Queries */
+
+@media screen and ( min-width : 991px ) {
+    
+    .feature-content {
+        display: flex;
+        align-items: center;
+    }
+    
+}
+
+
+.page-footer {
+  background-color: #262F35;
+    padding: 3.5rem 0;
+}
+
+
+.page-footer p{
+  color: #F5F5F5;
+}
+.page-footer a:hover{
+  color: white;
+}
+
+.page-footer hr {
+  
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+    border-style: solid none;
+    border-width: 1px 0;
+    margin: 18px 0;
+  
+}
+
+
+.page-footer h6 {
+    font-size: 18px;
+    padding-bottom: 1px;
+}
+
+
+
+#table-f {
+    padding-top: 6rem;
+    padding-bottom: 1rem;
+    font-size: 17px;
+
+}
+
+#table-f thead {
+    background-color: #F5F5F5;
+}
+
+
+#table-f li {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+    color: #6c6f73;
+    padding: 4px 0;
+}
+
+
+
+
+.page-footer #social  {
+    color: white;
+}
+
+#end-notes {
+    padding: 6rem 0;
+    font-size: 20px;
+
+
+}
+
+#table-g {
+    padding-top: 0;
+    padding-bottom: 6rem;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 17px;
+}
+
+#bibliography {
+    font-size: 20px;
+}
+
+.opt {
+    margin-bottom: -7.5rem;
+}
+
+
+#table-g table{
+text-align: center;
+}
+
+.btn {
+    text-decoration: none;
+}
+.btn:hover {
+    text-decoration: none;
+}
+
+.btn:focus {
+    text-decoration: none;
+}
+
+.italic {
+    font-style: italic;
+}
+
+
+#collapseThree {
+    clear: left;
+    
+}
